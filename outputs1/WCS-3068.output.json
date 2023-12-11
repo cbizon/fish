@@ -1,0 +1,57 @@
+```json
+{
+  "NORTH CAROLINA STATE MUSEUM OF NATURAL SCIENCES AQUATIC/MARINE FIELD DATA SHEET": {
+    "DATE": "25 Jun 84",
+    "TIME": "13:50 - 14:30",
+    "FIELD#": "WCS - 3068",
+    "REGIONAL DATA": {
+      "FOR FRESHWATER ONLY": {
+        "CONTINENT": "N. Am.",
+        "PRINCIPAL DRAINAGE BASIN": "Chesapeake",
+        "RIVER SUBBASINS": "headwaters of Rapidan",
+        "COUNTRY": "USA",
+        "ST/PROV.": "VA"
+      },
+      "FOR MARINE ONLY": {
+        "OCEAN": "",
+        "OCEAN SUBBASIN": "",
+        "COUNTRY (if coastal collection)": "",
+        "ST/PROV.": ""
+      }
+    },
+    "LOCALE DATA/COLLECTING INFORMATION": {
+      "COUNTIES": "Orange",
+      "MAP SHEET": "Zoar Rd (5G-601)",
+      "LOCALITY": "Mine Run off Racoon Ford (2.7 mi W of Zoar Bridge)",
+      "LAT": "38.3098 N",
+      "LONG": "77.8537 W",
+      "OTHER COORDS": "",
+      "VESSEL": "",
+      "CRUISE": "",
+      "STA#": "",
+      "PERMIT": "",
+      "COLLECTORS": "see 3059",
+      "METHOD CAPTURE": "seine",
+      "DEPTH CAPTURE": "0 to 1.5",
+      "PRESERVATIVE": "formal"
+    },
+    "ECOLOGICAL DATA": {
+      "GENERAL HABITAT": "Large qty Piedmont Creek",
+      "ELEV.": "202 - 207",
+      "STREAM WIDTH": "5 to 15",
+      "MAX DEPTH": "1 ft",
+      "CURRENT": "sl(slow)",
+      "COLOR": "light",
+      "TEMP": "",
+      "SALINITY": "",
+      "TIDE": "",
+      "BOTTOM TYPE": "sand/gravel, rubble, some boulders",
+      "VEGETATION": "",
+      "SHORE TYPE": "wooded"
+    },
+    "ACC.#": "1344",
+    "ADD. NOTES/SPECIES LISTS ETC. on back": "see back →"
+  },
+  "TRANSCRIPTION NOTES": "The handwriting was challenging to decipher at times, particularly with the abbreviations used and some unclear lettering. 'Qty' in the 'GENERAL HABITAT' could be an abbreviation for 'quality,' 'quantity,' or another similar term. The map sheet has a number with uncertain characters '5G-601' (the middle character is ambiguous). The abbreviation 'sl' for stream current could stand for 'slight' or 'slow' and was determined based on the context. The entry 'see 3059' in the 'COLLECTORS' section appears to reference another data sheet or entry number."
+}
+```

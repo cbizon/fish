@@ -1,0 +1,57 @@
+```json
+{
+  "NORTH CAROLINA STATE MUSEUM OF NATURAL SCIENCES AQUATIC/MARINE FIELD DATA SHEET": {
+    "DATE": "23/06/11",
+    "TIME": "13:08-14:50",
+    "FIELD#": "NCS-2278",
+    "REGIONAL DATA": {
+      "FOR FRESHWATER ONLY": {
+        "CONTINENT": "N. Am.",
+        "PRINCIPAL DRAINAGE BASIN": "Miss. R.",
+        "RIVER SUBBASINS": "Clinch",
+        "COUNTRY": "USA",
+        "ST/PROV.": "TN"
+      },
+      "FOR MARINE ONLY": {
+        "OCEAN": "",
+        "OCEAN SUBBASIN": "",
+        "COUNTRY (if coastal collection)": "",
+        "ST/PROV.": ""
+      }
+    },
+    "LOCALE DATA/COLLECTING INFORMATION": {
+      "COUNTIES": "Hancock",
+      "MAP SHEET": "",
+      "LOCALITY": "Clinch R. at Frost Ford by Tennesse Roberts Rd (100m above Panther Cr.) 3.6 mi E of Sneedville",
+      "LAT": "36, 32'8\" N",
+      "LONG": "83, 15' 9\" W",
+      "OTHER COORDS": "",
+      "VESSEL": "",
+      "CRUISE": "",
+      "STA#": "",
+      "PERMIT": "TWRA",
+      "COLLECTORS": "Sue 2967",
+      "METHOD CAPTURE": "bp. Seine",
+      "DEPTH CAPTURE": "to 1.5m",
+      "PRESERVATIVE": "Form. + eth."
+    },
+    "ECOLOGICAL DATA": {
+      "GENERAL HABITAT": "med. Pty valley river",
+      "ELEV.": "50m",
+      "STREAM WIDTH": "2m",
+      "MAX DEPTH": "",
+      "CURRENT": "",
+      "COLOR": "clear",
+      "TEMP": "",
+      "SALINITY": "",
+      "TIDE": "",
+      "BOTTOM TYPE": "gravel/sand, ledge rockfolls",
+      "VEGETATION": "few lgts.",
+      "SHORE TYPE": "fields, + cippin. trees etc."
+    },
+    "ACC.#": "12616",
+    "ADD. NOTES/SPECIES LISTS ETC. on back": "+ Frost Ford is a local name, not found on most maps"
+  },
+  "TRANSCRIPTION NOTES": "The handwriting was a bit challenging to decipher in places, particularly with certain abbreviations and the location details. The word 'med.' for 'medium' and the abbreviation 'bp. Seine' for the method of capture, as well as 'Form. + eth.' as shorthand for preservatives, were interpreted from context. The note about Frost Ford being a local name, not found on most maps, was also included as additional information rather than part of the data fields."
+}
+```

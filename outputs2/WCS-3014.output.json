@@ -1,0 +1,57 @@
+```json
+{
+  "NORTH CAROLINA STATE MUSEUM OF NATURAL SCIENCES AQUATIC/MARINE FIELD DATA SHEET": {
+    "DATE": "4 Sep 2013",
+    "TIME": "2315-2345, 1415-1515",
+    "FIELD#": "WCS-3614",
+    "REGIONAL DATA": {
+      "FOR FRESHWATER ONLY": {
+        "CONTINENT": "N. Am.",
+        "PRINCIPAL DRAINAGE BASIN": "Chesapeake Bay",
+        "RIVER SUBBASINS": "Potomac",
+        "COUNTRY": "USA",
+        "ST/PROV.": "VA - MD"
+      },
+      "FOR MARINE ONLY": {
+        "OCEAN": "",
+        "OCEAN SUBBASIN": "",
+        "COUNTRY (if coastal collection)": "",
+        "ST/PROV.": ""
+      }
+    },
+    "LOCALE DATA/COLLECTING INFORMATION": {
+      "COUNTIES": "Prince William - Charles",
+      "MAP SHEET": "",
+      "LOCALITY": "Potomac R., W shore B'lo (Blow) Dutton PH",
+      "LAT": "38.535, 38.543",
+      "LONG": "77.122, 77.257",
+      "OTHER COORDS": "",
+      "VESSEL": "",
+      "CRUISE": "",
+      "STA#": "",
+      "PERMIT": "VDGIF",
+      "COLLECTORS": "See 3010",
+      "METHOD CAPTURE": "EFBoat & 12' Seine",
+      "DEPTH CAPTURE": "to 2 m",
+      "PRESERVATIVE": ""
+    },
+    "ECOLOGICAL DATA": {
+      "GENERAL HABITAT": "Large tidal river",
+      "ELEV.": "1 ft min",
+      "STREAM WIDTH": "",
+      "MAX DEPTH": "2",
+      "CURRENT": "Slight",
+      "COLOR": "Brownish",
+      "TEMP": "",
+      "SALINITY": "5.1‰ in river 20 mm off Potomac",
+      "TIDE": "",
+      "BOTTOM TYPE": "Sand-silt",
+      "VEGETATION": "Plankton blooms, Hydrilla, Some SAV",
+      "SHORE TYPE": ""
+    },
+    "ACC.#": "12926",
+    "ADD. NOTES/SPECIES LISTS ETC. on back": "Lots of SAV Beds, Bitter 24 S in reports to A Hunt late 2000s"
+  },
+  "TRANSCRIPTION NOTES": "Some numbers were a bit difficult to decipher due to inconsistent handwriting. The locality 'B'lo Dutton PH' is interpreted as 'below Dutton PH' from context although the handwriting was unclear. The salinity '5.1‰ in river...' seemed to have a continuation which may interpret as a measurement location."
+}
+```

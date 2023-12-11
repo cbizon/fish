@@ -1,0 +1,57 @@
+```json
+{
+  "NORTH CAROLINA STATE MUSEUM OF NATURAL SCIENCES AQUATIC/MARINE FIELD DATA SHEET": {
+    "DATE": "9 Nov 2011",
+    "TIME": "1230-1600",
+    "FIELD#": "WCS-2977",
+    "REGIONAL DATA": {
+      "FOR FRESHWATER ONLY": {
+        "CONTINENT": "N. Am.",
+        "PRINCIPAL DRAINAGE BASIN": "Mississippi",
+        "RIVER SUBBASINS": "Tenn./Little",
+        "COUNTRY": "USA",
+        "ST/PROV.": "TN"
+      },
+      "FOR MARINE ONLY": {
+        "OCEAN": "",
+        "OCEAN SUBBASIN": "",
+        "COUNTRY (if coastal collection)": "",
+        "ST/PROV.": ""
+      }
+    },
+    "LOCALE DATA/COLLECTING INFORMATION": {
+      "COUNTIES": "Blount",
+      "MAP SHEET": "",
+      "LOCALITY": "Little R above 30-150 m below US Hwy 35, ca. 10.5 mi SE the city of Maryville",
+      "LAT": "35.732",
+      "LONG": "83.932",
+      "OTHER COORDS": "",
+      "VESSEL": "",
+      "CRUISE": "",
+      "STA#": "",
+      "PERMIT": "TWRA 1189",
+      "COLLECTORS": "See 2962",
+      "METHOD CAPTURE": "B/P shocking",
+      "DEPTH CAPTURE": "76 cm",
+      "PRESERVATIVE": ""
+    },
+    "ECOLOGICAL DATA": {
+      "GENERAL HABITAT": "Small upland river",
+      "ELEV.": "25-30 max",
+      "STREAM WIDTH": "2 m",
+      "MAX DEPTH": "2.4 m",
+      "CURRENT": "strong",
+      "COLOR": "muddy",
+      "TEMP": "",
+      "SALINITY": "",
+      "TIDE": "",
+      "BOTTOM TYPE": "small rubble cobble long gravel/silt",
+      "VEGETATION": "",
+      "SHORE TYPE": "Rip. [riparian] shrubs"
+    },
+    "ACC.#": "12041",
+    "ADD. NOTES/SPECIES LISTS ETC. on back": "up: vol. ft. Collecting somewhat difficult."
+  },
+  "TRANSCRIPTION NOTES": "The handwriting was occasionally unclear, particularly around the 'LOCALITY' field and the 'ADD. NOTES/SPECIES LISTS ETC. on back' section. Assumptions were made on the most likely interpretations."
+}
+```

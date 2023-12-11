@@ -1,0 +1,24 @@
+{
+    "id": "chatcmpl-8UL4XKii79BDsRglIA859uuhoq3Hj",
+    "object": "chat.completion",
+    "created": 1702241533,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1789,
+        "completion_tokens": 673,
+        "total_tokens": 2462
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"NORTH CAROLINA STATE MUSEUM OF NATURAL SCIENCES AQUATIC/MARINE FIELD DATA SHEET\": {\n    \"DATE\": \"Sept. 10/13\", \n    \"TIME\": \"1215 - 1330\", \n    \"FIELD#\": \"WCS-3013\", \n    \"REGIONAL DATA\": { \n      \"FOR FRESHWATER ONLY\": { \n        \"CONTINENT\": \"N. Am.\", \n        \"PRINCIPAL DRAINAGE BASIN\": \"Chesapeake Bay\", \n        \"RIVER SUBBASINS\": \"Potomac\", \n        \"COUNTRY\": \"USA\", \n        \"ST/PROV.\": \"VA\" \n      }, \n      \"FOR MARINE ONLY\": { \n        \"OCEAN\": \"\", \n        \"OCEAN SUBBASIN\": \"\", \n        \"COUNTRY (if coastal collection)\": \"\", \n        \"ST/PROV.\": \"\" \n      } \n    }, \n    \"LOCALE DATA/COLLECTING INFORMATION\": { \n      \"COUNTIES\": \"Prince William\", \n      \"MAP SHEET\": \"WofE\", \n      \"LOCALITY\": \"Powells Cr., Lower tidal reach DS of CSX RR bridge - on RR ENE Dumfries\", \n      \"LAT\": \"38.576873\", \n      \"LONG\": \"77.262873\", \n      \"OTHER COORDS\": \"\", \n      \"VESSEL\": \"\", \n      \"CRUISE\": \"\", \n      \"STA#\": \"\", \n      \"PERMIT\": \"VDGIF\", \n      \"COLLECTORS\": \"See 3010\", \n      \"METHOD CAPTURE\": \"EF boat\", \n      \"DEPTH CAPTURE\": \"to 2m\", \n      \"PRESERVATIVE\": \"eth.\" \n    }, \n    \"ECOLOGICAL DATA\": { \n      \"GENERAL HABITAT\": \"large tidal creek enviro(ent)\", \n      \"ELEV.\": \"2m\", \n      \"STREAM WIDTH\": \"low med. high\", \n      \"MAX DEPTH\": \"mud, med. high\", \n      \"CURRENT\": \"S(vg. -\", \n      \"COLOR\": \"Turbid\", \n      \"TEMP\": \"\", \n      \"SALINITY\": \"\", \n      \"TIDE\": \"sft/Sand etc.\", \n      \"BOTTOM TYPE\": \"\", \n      \"VEGETATION\": \"Observed, SOV (By depth, some Cat/1/9, mul./fol. etc.\", \n      \"SHORE TYPE\": \"Wooded\" \n    }, \n    \"ACC.#\": \"12216\", \n    \"ADD. NOTES/SPECIES LISTS ETC. on back\": \"\" \n  }, \n  \"TRANSCRIPTION NOTES\": \"Handwriting was challenging to interpret in some sections, especially in 'GENERAL HABITAT', 'CURRENT', 'VEGETATION', and the note related to the image which indicates 'photos - 34-45 waterp(r)its - 28+29'. Interpretation of certain terms and numbers might be slightly inaccurate due to the quality of handwriting.\"\n}\n```"
+            },
+            "finish_details": {
+                "type": "stop",
+                "stop": "<|fim_suffix|>"
+            },
+            "index": 0
+        }
+    ]
+}

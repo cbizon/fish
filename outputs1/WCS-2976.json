@@ -1,0 +1,24 @@
+{
+    "id": "chatcmpl-8UL5kciJxEo9T6JPCNkmw6Gt9XBQ7",
+    "object": "chat.completion",
+    "created": 1702241608,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1789,
+        "completion_tokens": 626,
+        "total_tokens": 2415
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"NORTH CAROLINA STATE MUSEUM OF NATURAL SCIENCES AQUATIC/MARINE FIELD DATA SHEET\": {\n    \"DATE\": \"23 Nov. 20 11\",\n    \"TIME\": \"13:08-16:50\",\n    \"FIELD#\": \"LCS - 22788\",\n    \"REGIONAL DATA\": {\n      \"FOR FRESHWATER ONLY\": {\n        \"CONTINENT\": \"N. Am.\",\n        \"PRINCIPAL DRAINAGE BASIN\": \"Miss\",\n        \"RIVER SUBBASINS\": \"Clinch\",\n        \"COUNTRY\": \"U.S.A.\",\n        \"ST/PROV.\": \"TN\"\n      },\n      \"FOR MARINE ONLY\": {\n        \"OCEAN\": \"\",\n        \"OCEAN SUBBASIN\": \"\",\n        \"COUNTRY (if coastal collection)\": \"\",\n        \"ST/PROV.\": \"\"\n      }\n    },\n    \"LOCALE DATA/COLLECTING INFORMATION\": {\n      \"COUNTIES\": \"Hancock\",\n      \"MAP SHEET\": \"X\",\n      \"LOCALITY\": \"Clinch R. at Frost Ford by Tenn(essee) Roberts Rd (0.1 mi above Panther). 3.6 mi. E of Sneedville\",\n      \"LAT\": \"36, 38'02\\\" N\",\n      \"LONG\": \"83,15'09\\\" W\",\n      \"OTHER COORDS\": \"\",\n      \"VESSEL\": \"\",\n      \"CRUISE\": \"\",\n      \"STA#\": \"\",\n      \"PERMIT\": \"TWRA\",\n      \"COLLECTORS\": \"Su 2967\",\n      \"METHOD CAPTURE\": \"bp. Seine\",\n      \"DEPTH CAPTURE\": \"to 12'\",\n      \"PRESERVATIVE\": \"Form. + eth.\"\n    },\n    \"ECOLOGICAL DATA\": {\n      \"GENERAL HABITAT\": \"mod. Relay oxbow river\",\n      \"ELEV.\": \"50m\",\n      \"STREAM WIDTH\": \"2m\",\n      \"MAX DEPTH\": \"\",\n      \"CURRENT\": \"\",\n      \"COLOR\": \"clear\",\n      \"TEMP\": \"\",\n      \"SALINITY\": \"\",\n      \"TIDE\": \"\",\n      \"BOTTOM TYPE\": \"gravel/sand/large rocks/shells\",\n      \"VEGETATION\": \"f\\downarrowa\\downarrowrgrs.\",\n      \"SHORE TYPE\": \"flooded cypress trees etc.\"\n    },\n    \"ACC.#\": \"12616\",\n    \"ADD. NOTES/SPECIES LISTS ETC. on back\": \"+ Frost Ford is a local named, not found on most maps\"\n  },\n  \"TRANSCRIPTION NOTES\": \"The word before 'oxbow river' in GENERAL HABITAT was very unclear, the best guess is 'mod. Relay'. 'fargrs' in VEGETATION could be incorrect due to unclear handwriting. Also, interpretation of abbreviations and partial words was necessary in some instances.\"\n}\n```"
+            },
+            "finish_details": {
+                "type": "stop",
+                "stop": "<|fim_suffix|>"
+            },
+            "index": 0
+        }
+    ]
+}

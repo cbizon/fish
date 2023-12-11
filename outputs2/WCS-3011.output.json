@@ -1,0 +1,57 @@
+```json
+{
+  "NORTH CAROLINA STATE MUSEUM OF NATURAL SCIENCES AQUATIC/MARINE FIELD DATA SHEET": {
+    "DATE": "3 Sep 2013", 
+    "TIME": "1600-1700", 
+    "FIELD#": "WCS - 3011",
+    "REGIONAL DATA": { 
+      "FOR FRESHWATER ONLY": { 
+        "CONTINENT": "N. Am.", 
+        "PRINCIPAL DRAINAGE BASIN": "Chesapk Bay", 
+        "RIVER SUBBASINS": "Potomac", 
+        "COUNTRY": "USA", 
+        "ST/PROV.": "VA"
+        }, 
+      "FOR MARINE ONLY": { 
+        "OCEAN": "", 
+        "OCEAN SUBBASIN": "", 
+        "COUNTRY (if coastal collection)": "", 
+        "ST/PROV.": "" 
+      } 
+    }, 
+    "LOCALE DATA/COLLECTING INFORMATION": { 
+      "COUNTIES": "Stafford M.", 
+      "MAP SHEET": "Lower third reach for", 
+      "LOCALITY": "Accokeek Creek", 
+      "LAT": "38.31.44 N", 
+      "LONG": "77.13.55 W", 
+      "OTHER COORDS": "", 
+      "VESSEL": "", 
+      "CRUISE": "", 
+      "STA#": "", 
+      "PERMIT": "VGIF", 
+      "COLLECTORS": "See 360", 
+      "METHOD CAPTURE": "EF bow", 
+      "DEPTH CAPTURE": "2 m +", 
+      "PRESERVATIVE": "" 
+    }, 
+    "ECOLOGICAL DATA": { 
+      "GENERAL HABITAT": "Upper tidal Creek of heavy silt", 
+      "ELEV.": "25ft", 
+      "STREAM WIDTH": "", 
+      "MAX DEPTH": "3 m + ?", 
+      "CURRENT": "Slg", 
+      "COLOR": "Sedimented", 
+      "TEMP": "", 
+      "SALINITY": "low", 
+      "TIDE": "high", 
+      "BOTTOM TYPE": "mud/silt/etc.", 
+      "VEGETATION": "Hydrilla & other", 
+      "SHORE TYPE": "wooded"
+    }, 
+    "ACC.#": "126126", 
+    "ADD. NOTES/SPECIES LISTS ETC. on back": ""
+  },
+  "TRANSCRIPTION NOTES": "The numbers '6-13' and '22 & 23' were written next to 'photos' and 'waypoint', which seem like metadata regarding photographs taken and coordinates but do not directly correspond to any particular form element. The 'MAP SHEET' entry may not be complete, as there is an 'or' that suggests the name could continue. There might be an issue with the latitude and longitude coordinates as they are slightly unclear. The numbers following 'See' in the 'COLLECTORS' entry might correspond to a reference number or a specific page as it is followed by '360'."
+}
+```

@@ -1,0 +1,24 @@
+{
+    "id": "chatcmpl-8UL3dBY5eVvOQ8R5D0QobSWsO251f",
+    "object": "chat.completion",
+    "created": 1702241477,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1789,
+        "completion_tokens": 596,
+        "total_tokens": 2385
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"NORTH CAROLINA STATE MUSEUM OF NATURAL SCIENCES AQUATIC/MARINE FIELD DATA SHEET\": {\n    \"DATE\": \"25 Sept. 20 03\",\n    \"TIME\": \"015\u20141215\",\n    \"FIELD#\": \"WGS-200332\",\n    \"REGIONAL DATA\": {\n      \"FOR FRESHWATER ONLY\": {\n        \"CONTINENT\": \"N. Am.\",\n        \"PRINCIPAL DRAINAGE BASIN\": \"Chesapeake\",\n        \"RIVER SUBBASINS\": \"Rappahannock\",\n        \"COUNTRY\": \"USA\",\n        \"ST/PROV.\": \"VA\"\n      },\n      \"FOR MARINE ONLY\": {\n        \"OCEAN\": \"\",\n        \"OCEAN SUBBASIN\": \"\",\n        \"COUNTRY (if coastal collection)\": \"\",\n        \"ST/PROV.\": \"\"\n      }\n    },\n    \"LOCALE DATA/COLLECTING INFORMATION\": {\n      \"COUNTIES\": \"Richmond\",\n      \"MAP SHEET\": \"\",\n      \"LOCALITY\": \"Cat point Creek, tidal fresh, 6.5 air mi NNE Tappahannoc\",\n      \"LAT\": \"38.\u00b06'76\\\"N\",\n      \"LONG\": \"76.\u00b08'57\\\"W\",\n      \"OTHER COORDS\": \"\",\n      \"VESSEL\": \"\",\n      \"CRUISE\": \"\",\n      \"STA#\": \"\",\n      \"PERMIT\": \"S. Harraman N. Richmondac\",\n      \"COLLECTORS\": \"Ramon Bout\",\n      \"METHOD CAPTURE\": \"EFB\",\n      \"DEPTH CAPTURE\": \"Low + Bonnal\",\n      \"PRESERVATIVE\": \"\"\n    },\n    \"ECOLOGICAL DATA\": {\n      \"GENERAL HABITAT\": \"Large Tidal Creek\",\n      \"ELEV.\": \"\",\n      \"STREAM WIDTH\": \"200 m \u00b1\",\n      \"MAX DEPTH\": \"1-3 m\",\n      \"CURRENT\": \"tidal\",\n      \"COLOR\": \"muddy\",\n      \"TEMP\": \"66 \u00b0\",\n      \"SALINITY\": \"\",\n      \"TIDE\": \"\",\n      \"BOTTOM TYPE\": \"Silty Sand.\",\n      \"VEGETATION\": \"Hydrilla & Nypha\",\n      \"SHORE TYPE\": \"forested\"\n    },\n    \"ACC.#\": \"12/260\",\n    \"ADD. NOTES/SPECIES LISTS ETC. on back\": \"\"\n  },\n  \"TRANSCRIPTION NOTES\": \"The latitude and longitude coordinates were difficult to decipher and may not be exact. These are interpretations of the handwritten entries: '38.\u00b06'76\\\"N' for latitude and '76.\u00b08'57\\\"W' for longitude. The word before 'Bonnal' in 'DEPTH CAPTURE' was unclear.\"\n}\n```"
+            },
+            "finish_details": {
+                "type": "stop",
+                "stop": "<|fim_suffix|>"
+            },
+            "index": 0
+        }
+    ]
+}

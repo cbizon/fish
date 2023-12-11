@@ -1,0 +1,57 @@
+```json
+{
+  "NORTH CAROLINA STATE MUSEUM OF NATURAL SCIENCES AQUATIC/MARINE FIELD DATA SHEET": {
+    "DATE": "25 Sept. 20 03",
+    "TIME": "015—1215",
+    "FIELD#": "WGS-200332",
+    "REGIONAL DATA": {
+      "FOR FRESHWATER ONLY": {
+        "CONTINENT": "N. Am.",
+        "PRINCIPAL DRAINAGE BASIN": "Chesapeake",
+        "RIVER SUBBASINS": "Rappahannock",
+        "COUNTRY": "USA",
+        "ST/PROV.": "VA"
+      },
+      "FOR MARINE ONLY": {
+        "OCEAN": "",
+        "OCEAN SUBBASIN": "",
+        "COUNTRY (if coastal collection)": "",
+        "ST/PROV.": ""
+      }
+    },
+    "LOCALE DATA/COLLECTING INFORMATION": {
+      "COUNTIES": "Richmond",
+      "MAP SHEET": "",
+      "LOCALITY": "Cat point Creek, tidal fresh, 6.5 air mi NNE Tappahannoc",
+      "LAT": "38.°6'76\"N",
+      "LONG": "76.°8'57\"W",
+      "OTHER COORDS": "",
+      "VESSEL": "",
+      "CRUISE": "",
+      "STA#": "",
+      "PERMIT": "S. Harraman N. Richmondac",
+      "COLLECTORS": "Ramon Bout",
+      "METHOD CAPTURE": "EFB",
+      "DEPTH CAPTURE": "Low + Bonnal",
+      "PRESERVATIVE": ""
+    },
+    "ECOLOGICAL DATA": {
+      "GENERAL HABITAT": "Large Tidal Creek",
+      "ELEV.": "",
+      "STREAM WIDTH": "200 m ±",
+      "MAX DEPTH": "1-3 m",
+      "CURRENT": "tidal",
+      "COLOR": "muddy",
+      "TEMP": "66 °",
+      "SALINITY": "",
+      "TIDE": "",
+      "BOTTOM TYPE": "Silty Sand.",
+      "VEGETATION": "Hydrilla & Nypha",
+      "SHORE TYPE": "forested"
+    },
+    "ACC.#": "12/260",
+    "ADD. NOTES/SPECIES LISTS ETC. on back": ""
+  },
+  "TRANSCRIPTION NOTES": "The latitude and longitude coordinates were difficult to decipher and may not be exact. These are interpretations of the handwritten entries: '38.°6'76\"N' for latitude and '76.°8'57\"W' for longitude. The word before 'Bonnal' in 'DEPTH CAPTURE' was unclear."
+}
+```

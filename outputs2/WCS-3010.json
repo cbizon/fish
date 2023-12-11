@@ -1,0 +1,24 @@
+{
+    "id": "chatcmpl-8UgAjQ6h16QQyv0jt4SwbW1mAPB1Q",
+    "object": "chat.completion",
+    "created": 1702322641,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1789,
+        "completion_tokens": 618,
+        "total_tokens": 2407
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"NORTH CAROLINA STATE MUSEUM OF NATURAL SCIENCES AQUATIC/MARINE FIELD DATA SHEET\": {\n    \"DATE\": \"3 Sep 2001\",\n    \"TIME\": \"0400-1530\",\n    \"FIELD#\": \"UCS- 3010\",\n    \"REGIONAL DATA\": {\n      \"FOR FRESHWATER ONLY\": {\n        \"CONTINENT\": \"N. Am.\",\n        \"PRINCIPAL DRAINAGE BASIN\": \"Chesapeake Bay\",\n        \"RIVER SUBBASINS\": \"Potmac\",\n        \"COUNTRY\": \"USA\",\n        \"ST/PROV.\": \"VA\"\n      },\n      \"FOR MARINE ONLY\": {\n        \"OCEAN\": \"\",\n        \"OCEAN SUBBASIN\": \"\",\n        \"COUNTRY (if coastal collection)\": \"\",\n        \"ST/PROV.\": \"\"\n      }\n    },\n    \"LOCALE DATA/COLLECTING INFORMATION\": {\n      \"COUNTIES\": \"Stafford\",\n      \"MAP SHEET\": \"b.9\",\n      \"LOCALITY\": \"Potomac Creek, lower tidal reach, 6.5/2.4 mi ENE of th. Fredericksburg\",\n      \"LAT\": \"38.317772, 38.316816\",\n      \"LONG\": \"77.287842 - 77.287872 W\",\n      \"OTHER COORDS\": \"\",\n      \"VESSEL\": \"\",\n      \"CRUISE\": \"\",\n      \"STA#\": \"\",\n      \"PERMIT\": \"N06,F\",\n      \"COLLECTORS\": \"WCStarnes, 6m Hayes, Mc Cotter, J. Ferraich\",\n      \"METHOD CAPTURE\": \"EFB\",\n      \"DEPTH CAPTURE\": \"to 2 m\",\n      \"PRESERVATIVE\": \"forma 24h\"\n    },\n    \"ECOLOGICAL DATA\": {\n      \"GENERAL HABITAT\": \"Tidal Fresh Creek\",\n      \"ELEV.\": \"\",\n      \"STREAM WIDTH\": \"\",\n      \"MAX DEPTH\": \"3 ft\",\n      \"CURRENT\": \"Tide\",\n      \"COLOR\": \"H'stic/Clear\",\n      \"TEMP\": \"Slightly mudd\",\n      \"SALINITY\": \"\",\n      \"TIDE\": \"heavy hydrilla\",\n      \"BOTTOM TYPE\": \"Sandy/silt\",\n      \"VEGETATION\": \"5 m Wtrthll\",\n      \"SHORE TYPE\": \"forest/littie residential\"\n    },\n    \"ACC.#\": \"12926\",\n    \"ADD. NOTES/SPECIES LISTS ETC. on back\": \"Photos 1-5 waypoint 20821\"\n  },\n  \"TRANSCRIPTION NOTES\": \"Some handwriting was difficult to decipher, e.g., 'Potmac' which could be 'Potomac'. 'H'stic/Clear' might be intended as 'Hist(Clear' or another similar term.\"\n}\n```"
+            },
+            "finish_details": {
+                "type": "stop",
+                "stop": "<|fim_suffix|>"
+            },
+            "index": 0
+        }
+    ]
+}

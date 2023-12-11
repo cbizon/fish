@@ -1,0 +1,24 @@
+{
+    "id": "chatcmpl-8Ug9tphw8hgVuvxdsEHKXy5Ov8zy2",
+    "object": "chat.completion",
+    "created": 1702322589,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1789,
+        "completion_tokens": 603,
+        "total_tokens": 2392
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"NORTH CAROLINA STATE MUSEUM OF NATURAL SCIENCES AQUATIC/MARINE FIELD DATA SHEET\": {\n    \"DATE\": \"Sept. 10/13\",\n    \"TIME\": \"1215/1330\",\n    \"FIELD#\": \"WCS-3013\",\n    \"REGIONAL DATA\": {\n      \"FOR FRESHWATER ONLY\": {\n        \"CONTINENT\": \"N. Am.\",\n        \"PRINCIPAL DRAINAGE BASIN\": \"Chesapeake Bay\",\n        \"RIVER SUBBASINS\": \"Potomac\",\n        \"COUNTRY\": \"USA\",\n        \"ST/PROV.\": \"VA\"\n      },\n      \"FOR MARINE ONLY\": {\n        \"OCEAN\": \"\",\n        \"OCEAN SUBBASIN\": \"\",\n        \"COUNTRY (if coastal collection)\": \"\",\n        \"ST/PROV.\": \"\"\n      }\n    },\n    \"LOCALE DATA/COLLECTING INFORMATION\": {\n      \"COUNTIES\": \"Prince William\",\n      \"MAP SHEET\": \"WQ-E\",\n      \"LOCALITY\": \"Powells Cr., lower tidal reach 85 of CSX RR bridge, - on rm-ENE Dumfries\",\n      \"LAT\": \"38.56783; 38.51795\",\n      \"LONG\": \"77.24883 > 77.26721\",\n      \"OTHER COORDS\": \"\",\n      \"VESSEL\": \"\",\n      \"CRUISE\": \"\",\n      \"STA#\": \"\",\n      \"PERMIT\": \"YGLF\",\n      \"COLLECTORS\": \"See 3010\",\n      \"METHOD CAPTURE\": \"EF boat\",\n      \"DEPTH CAPTURE\": \"to 2m\",\n      \"PRESERVATIVE\": \"eth.\"\n    },\n    \"ECOLOGICAL DATA\": {\n      \"GENERAL HABITAT\": \"Large tidal creek enviropt\",\n      \"ELEV.\": \"\",\n      \"STREAM WIDTH\": \"low\",\n      \"MAX DEPTH\": \"2m\",\n      \"CURRENT\": \"Sug.\",\n      \"COLOR\": \"Turbid\",\n      \"TEMP\": \"\",\n      \"SALINITY\": \"\",\n      \"TIDE\": \"\",\n      \"BOTTOM TYPE\": \"silt/sand etc\",\n      \"VEGETATION\": \"Obscured; SAV\",\n      \"SHORE TYPE\": \"wooded\"\n    },\n    \"ACC.#\": \"12326\",\n    \"ADD. NOTES/SPECIES LISTS ETC. on back\": \"\"\n  },\n  \"TRANSCRIPTION NOTES\": \"The handwriting was challenging in certain areas; some words such as 'enviropt' in GENERAL HABITAT and 'Sug.' in CURRENT may not be fully accurate due to poor legibility. The abbreviation 'EF' in METHOD CAPTURE is assumed to be a shorthand used by the collector and its full form is not clarified.\"\n}\n```"
+            },
+            "finish_details": {
+                "type": "stop",
+                "stop": "<|fim_suffix|>"
+            },
+            "index": 0
+        }
+    ]
+}

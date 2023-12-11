@@ -1,0 +1,59 @@
+```json
+{
+  "NORTH CAROLINA STATE MUSEUM OF NATURAL SCIENCES AQUATIC/MARINE FIELD DATA SHEET": {
+    "DATE": "25 Jan 84",
+    "TIME": "1350 - 1430",
+    "FIELD#": "WCS-3068",
+    "REGIONAL DATA": {
+      "FOR FRESHWATER ONLY": {
+        "CONTINENT": "N. Am.",
+        "PRINCIPAL DRAINAGE BASIN": "Chesapeake",
+        "RIVER SUBBASINS": "Rappahannock River",
+        "COUNTRY": "USA",
+        "ST/PROV.": "VA"
+      },
+      "FOR MARINE ONLY": {
+        "OCEAN": "",
+        "OCEAN SUBBASIN": "",
+        "COUNTRY (if coastal collection)": "",
+        "ST/PROV.": ""
+      }
+    },
+    "LOCALE DATA/COLLECTING INFORMATION": {
+      "COUNTIES": "Orange",
+      "MAP SHEET": "unmarked Zoom Rd (SE-6?)",
+      "LOCALITY": "Mine Run off Raccoon Ford MT Gordon 21.7 just SSE SW of 622 Hill, Burton mi E of",
+      "LAT": "38.30978",
+      "LONG": "77.86577",
+      "OTHER COORDS": "",
+      "VESSEL": "",
+      "CRUISE": "",
+      "STA#": "",
+      "PERMIT": "",
+      "COLLECTORS": "See 3059",
+      "METHOD CAPTURE": "Seine",
+      "DEPTH CAPTURE": "0 to 15",
+      "PRESERVATIVE": "Formal"
+    },
+    "ECOLOGICAL DATA": {
+      "GENERAL HABITAT": "Large (off Piedmont Creek)",
+      "ELEV.": "182 - MAX",
+      "STREAM WIDTH": "70 to 15",
+      "MAX DEPTH": "m MAX",
+      "CURRENT": "slightly",
+      "COLOR": "slight green",
+      "TEMP": "",
+      "SALINITY": "",
+      "TIDE": "",
+      "BOTTOM TYPE": "Sandy, gravel, rubble some boulder",
+      "VEGETATION": "",
+      "SHORE TYPE": "Wood"
+    },
+    "ACC.#": "1344",
+    "ADD. NOTES/SPECIES LISTS ETC. on back": "See back"
+  },
+  "TRANSCRIPTION NOTES": "There were difficulties in transcribing some parts of the handwriting, particularly with the location and habitat details. It has been interpreted to the best of my ability. The locality details are especially complex and uncertain."
+}
+```
+
+Please note that the handwriting was indeed difficult to discern in some places, and the interpretation, especially for the LOCALITY, was challenging. The transcription is provided to the best of my understanding.

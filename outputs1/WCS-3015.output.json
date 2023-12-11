@@ -1,0 +1,56 @@
+```json
+{
+  "NORTH CAROLINA STATE MUSEUM OF NATURAL SCIENCES AQUATIC/MARINE FIELD DATA SHEET": {
+    "DATE": "5 Sept 2013",
+    "TIME": "1200 - 1330",
+    "FIELD#": "WCS 3015",
+    "REGIONAL DATA": {
+      "FOR FRESHWATER ONLY": {
+        "CONTINENT": "N. Am.",
+        "PRINCIPAL DRAINAGE BASIN": "Chesapeake Bay",
+        "RIVER SUBBASINS": "Jones / - / Pamunkey",
+        "COUNTRY": "USA",
+        "ST/PROV.": "VA"
+      },
+      "FOR MARINE ONLY": {
+        "OCEAN": "",
+        "OCEAN SUBBASIN": "",
+        "COUNTRY (if coastal collection)": "",
+        "ST/PROV.": ""
+      }
+    },
+    "LOCALE DATA/COLLECTING INFORMATION": {
+      "COUNTIES": "Chesterfield",
+      "MAP SHEET": "on side",
+      "LOCALITY": "Backwater areas of Appomattox R. / The Swamp Rd / Rt 604 NW of Sutherland",
+      "LAT": "37.21967° / 37.30879°",
+      "LONG": "77.3793° - 77.6767°",
+      "OTHER COORDS": "",
+      "VESSEL": "",
+      "CRUISE": "",
+      "STA#": "",
+      "PERMIT": "V081F",
+      "COLLECTORS": "WC Stroupe, SM Hussey, MG Gotte, L.J. Weaver",
+      "METHOD CAPTURE": "Seine Boat (1.1 mm. mesh)",
+      "PRESERVATIVE": "Form."
+    },
+    "ECOLOGICAL DATA": {
+      "GENERAL HABITAT": "shallow",
+      "ELEV.": "",
+      "STREAM WIDTH": "",
+      "MAX DEPTH": "1 m",
+      "CURRENT": "0",
+      "COLOR": "Fur-bld",
+      "TEMP": "",
+      "SALINITY": "Absent",
+      "TIDE": "",
+      "BOTTOM TYPE": "Silt",
+      "VEGETATION": "Shv",
+      "SHORE TYPE": "Wood"
+    },
+    "ACC.#": "12926",
+    "ADD. NOTES/SPECIES LISTS ETC. on back": "branches up from L. cich e clit"
+  },
+  "TRANSCRIPTION NOTES": "Some parts of the handwriting were difficult to discern, specifically the 'RIVER SUBBASINS' section and the 'VEGETATION' entry. Assumed 'shv' refers to shrub or shrubbery and inferred 'Form.' to indicate some form of preservative formula, possibly formalin. The 'RIVER SUBBASINS' appears to have a scribble/correction, so the transcription may not be fully accurate."
+}
+```

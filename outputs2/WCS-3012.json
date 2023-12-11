@@ -1,0 +1,24 @@
+{
+    "id": "chatcmpl-8UgA7OYOWu1dV8GV5MdXhAgUIRdxO",
+    "object": "chat.completion",
+    "created": 1702322603,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1789,
+        "completion_tokens": 645,
+        "total_tokens": 2434
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"NORTH CAROLINA STATE MUSEUM OF NATURAL SCIENCES AQUATIC/MARINE FIELD DATA SHEET\": {\n    \"DATE\": \"4 Sept 2012\",\n    \"TIME\": \"07:30-11:30\",\n    \"FIELD#\": \"WCS-3012\",\n    \"REGIONAL DATA\": {\n      \"FOR FRESHWATER ONLY\": {\n        \"CONTINENT\": \"N. Am\",\n        \"PRINCIPAL DRAINAGE BASIN\": \"Chesapeake Bay\",\n        \"RIVER SUBBASINS\": \"Potomac\",\n        \"COUNTRY\": \"USA\",\n        \"ST/PROV.\": \"VA\"\n      },\n      \"FOR MARINE ONLY\": {\n        \"OCEAN\": \"\",\n        \"OCEAN SUBBASIN\": \"\",\n        \"COUNTRY (if coastal collection)\": \"\",\n        \"ST/PROV.\": \"\"\n      }\n    },\n    \"LOCALE DATA/COLLECTING INFORMATION\": {\n      \"COUNTIES\": \"Fairfax\",\n      \"MAP SHEET\": \"\",\n      \"LOCALITY\": \"Pohick By Tower [illegible] Station Kane Q. between Route 1 & I95 and Belmont Bay and 95.2 Potomac R.\",\n      \"LAT\": \"38.6710 - 38.6372\",\n      \"LONG\": \"77.1804 - 77.2278\",\n      \"OTHER COORDS\": \"GPS c/o Woodbridge\",\n      \"VESSEL\": \"\",\n      \"CRUISE\": \"\",\n      \"STA#\": \"\",\n      \"PERMIT\": \"VDGIF\",\n      \"COLLECTORS\": \"See. 3610\",\n      \"METHOD CAPTURE\": \"EF boat\",\n      \"DEPTH CAPTURE\": \"to 2m\",\n      \"PRESERVATIVE\": \"\"\n    },\n    \"ECOLOGICAL DATA\": {\n      \"GENERAL HABITAT\": \"Tidal creek or adjacent embankment\",\n      \"ELEV.\": \"\",\n      \"STREAM WIDTH\": \"\",\n      \"MAX DEPTH\": \"1-3 m\",\n      \"CURRENT\": \"Slg\",\n      \"COLOR\": \"Very clear\",\n      \"TEMP\": \"\",\n      \"SALINITY\": \"low\",\n      \"TIDE\": \"\",\n      \"BOTTOM TYPE\": \"Silt/sand\",\n      \"VEGETATION\": \"abundant hydra/algae with some submerged vascular plants and everything else\",\n      \"SHORE TYPE\": \"Wood\"\n    },\n    \"ACC.#\": \"19226\",\n    \"ADD. NOTES/SPECIES LISTS ETC. on back\": \"photos-14-33 waypoints- 24-27 TACC# [illegible] bottom types/silts/sand\"\n  },\n  \"TRANSCRIPTION NOTES\": \"The handwriting for the 'LOCALITY' section was challenging, with part of the station name being illegible. Additionally, some abbreviations and terms like 'EF boat' and 'Slg' for current were unclear. Also, 'TACC#' and the note after it were mostly illegible.\"\n}\n```"
+            },
+            "finish_details": {
+                "type": "stop",
+                "stop": "<|fim_suffix|>"
+            },
+            "index": 0
+        }
+    ]
+}

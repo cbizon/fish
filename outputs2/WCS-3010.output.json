@@ -1,0 +1,57 @@
+```json
+{
+  "NORTH CAROLINA STATE MUSEUM OF NATURAL SCIENCES AQUATIC/MARINE FIELD DATA SHEET": {
+    "DATE": "3 Sep 2001",
+    "TIME": "0400-1530",
+    "FIELD#": "UCS- 3010",
+    "REGIONAL DATA": {
+      "FOR FRESHWATER ONLY": {
+        "CONTINENT": "N. Am.",
+        "PRINCIPAL DRAINAGE BASIN": "Chesapeake Bay",
+        "RIVER SUBBASINS": "Potmac",
+        "COUNTRY": "USA",
+        "ST/PROV.": "VA"
+      },
+      "FOR MARINE ONLY": {
+        "OCEAN": "",
+        "OCEAN SUBBASIN": "",
+        "COUNTRY (if coastal collection)": "",
+        "ST/PROV.": ""
+      }
+    },
+    "LOCALE DATA/COLLECTING INFORMATION": {
+      "COUNTIES": "Stafford",
+      "MAP SHEET": "b.9",
+      "LOCALITY": "Potomac Creek, lower tidal reach, 6.5/2.4 mi ENE of th. Fredericksburg",
+      "LAT": "38.317772, 38.316816",
+      "LONG": "77.287842 - 77.287872 W",
+      "OTHER COORDS": "",
+      "VESSEL": "",
+      "CRUISE": "",
+      "STA#": "",
+      "PERMIT": "N06,F",
+      "COLLECTORS": "WCStarnes, 6m Hayes, Mc Cotter, J. Ferraich",
+      "METHOD CAPTURE": "EFB",
+      "DEPTH CAPTURE": "to 2 m",
+      "PRESERVATIVE": "forma 24h"
+    },
+    "ECOLOGICAL DATA": {
+      "GENERAL HABITAT": "Tidal Fresh Creek",
+      "ELEV.": "",
+      "STREAM WIDTH": "",
+      "MAX DEPTH": "3 ft",
+      "CURRENT": "Tide",
+      "COLOR": "H'stic/Clear",
+      "TEMP": "Slightly mudd",
+      "SALINITY": "",
+      "TIDE": "heavy hydrilla",
+      "BOTTOM TYPE": "Sandy/silt",
+      "VEGETATION": "5 m Wtrthll",
+      "SHORE TYPE": "forest/littie residential"
+    },
+    "ACC.#": "12926",
+    "ADD. NOTES/SPECIES LISTS ETC. on back": "Photos 1-5 waypoint 20821"
+  },
+  "TRANSCRIPTION NOTES": "Some handwriting was difficult to decipher, e.g., 'Potmac' which could be 'Potomac'. 'H'stic/Clear' might be intended as 'Hist(Clear' or another similar term."
+}
+```

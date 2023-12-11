@@ -1,0 +1,24 @@
+{
+    "id": "chatcmpl-8UL5ShZghmNoPgf2eFMtnBKlCSuLW",
+    "object": "chat.completion",
+    "created": 1702241590,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1789,
+        "completion_tokens": 685,
+        "total_tokens": 2474
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"NORTH CAROLINA STATE MUSEUM OF NATURAL SCIENCES AQUATIC/MARINE FIELD DATA SHEET\": {\n    \"DATE\": \"3 Sep 2013\",\n    \"TIME\": \"0400-1530\",\n    \"FIELD#\": \"WCS- 3010\",\n    \"REGIONAL DATA\": {\n      \"FOR FRESHWATER ONLY\": {\n        \"CONTINENT\": \"N. Am.\",\n        \"PRINCIPAL DRAINAGE BASIN\": \"Chesapeake Bay\",\n        \"RIVER SUBBASINS\": \"Potomac\",\n        \"COUNTRY\": \"USA\",\n        \"ST/PROV.\": \"VA\"\n      },\n      \"FOR MARINE ONLY\": {\n        \"OCEAN\": \"\",\n        \"OCEAN SUBBASIN\": \"\",\n        \"COUNTRY (if coastal collection)\": \"\",\n        \"ST/PROV.\": \"\"\n      }\n    },\n    \"LOCALE DATA/COLLECTING INFORMATION\": {\n      \"COUNTIES\": \"Stafford\",\n      \"MAP SHEET\": \"69.9\",\n      \"LOCALITY\": \"Potomac Creek, lower tidal reach, (Coarse Gain)\",\n      \"LAT\": \"38.37777 N, 38.3866 N\",\n      \"LONG\": \"77.23789 W, 77.23782 W\",\n      \"OTHER COORDS\": \"\",\n      \"VESSEL\": \"\",\n      \"CRUISE\": \"\",\n      \"STA#\": \"\",\n      \"PERMIT\": \"NP6,F\",\n      \"COLLECTORS\": \"WC Stevens, GM Hughes, MC Ashton, J. Odumrich\",\n      \"METHOD CAPTURE\": \"EFB\",\n      \"DEPTH CAPTURE\": \"to 2m\",\n      \"PRESERVATIVE\": \"Formalin 20th\"\n    },\n    \"ECOLOGICAL DATA\": {\n      \"GENERAL HABITAT\": \"Tidal creek\",\n      \"ELEV.\": \"\",\n      \"STREAM WIDTH\": \"\",\n      \"MAX DEPTH\": \"3 ft\",\n      \"CURRENT\": \"Tidal\",\n      \"COLOR\": \"Turbid/clr\",\n      \"TEMP\": \"Slightly mud\",\n      \"SALINITY\": \"\",\n      \"TIDE\": \"\",\n      \"BOTTOM TYPE\": \"Sandy/silt\",\n      \"VEGETATION\": \"heavy Hydrilla\",\n      \"SHORE TYPE\": \"forests/fields, residential\"\n    },\n    \"ACC.#\": \"12226\",\n    \"ADD. NOTES/SPECIES LISTS ETC. on back\": \"\"\n  },\n  \"TRANSCRIPTION NOTES\": \"There was some uncertainty with the precise entry for 'MAX DEPTH' due to writing clarity, but the best interpretation seems to be '3 ft'. The 'MAP SHEET' entry contained an unclear number that appeared to be '69.9'. The 'LOCALITY' contains additional explanatory text '(Coarse Gain)' which was not clearly part of the form field but was included in that value. 'TEMP' entry seemed unusual as 'Slightly mud' which could be an error or a note meant for another section. GPS coordinates were provided as two sets of latitude and longitude, both were included in respective fields. Some words were challenging to decipher but have been transcribed as accurately as possible.\"\n}\n```"
+            },
+            "finish_details": {
+                "type": "stop",
+                "stop": "<|fim_suffix|>"
+            },
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+```json
+{
+  "NORTH CAROLINA STATE MUSEUM OF NATURAL SCIENCES AQUATIC/MARINE FIELD DATA SHEET": {
+    "DATE": "9 Nov 2011",
+    "TIME": "1230-1800",
+    "FIELD#": "WCS-2793",
+    "REGIONAL DATA": {
+      "FOR FRESHWATER ONLY": {
+        "CONTINENT": "N. Am.",
+        "PRINCIPAL DRAINAGE BASIN": "Mississippi",
+        "RIVER SUBBASINS": "Tenn./Little",
+        "COUNTRY": "USA",
+        "ST/PROV.": "TN"
+      },
+      "FOR MARINE ONLY": {
+        "OCEAN": "",
+        "OCEAN SUBBASIN": "",
+        "COUNTRY (if coastal collection)": "",
+        "ST/PROV.": ""
+      }
+    },
+    "LOCALE DATA/COLLECTING INFORMATION": {
+      "COUNTIES": "Blount",
+      "MAP SHEET": "",
+      "LOCALITY": "Little R above 50-150 m below US Hwy 35",
+      "LAT": "35.7892",
+      "LONG": "83.8922",
+      "OTHER COORDS": "",
+      "VESSEL": "",
+      "CRUISE": "",
+      "STA#": "",
+      "PERMIT": "TWRA 1189",
+      "COLLECTORS": "See 2962",
+      "METHOD CAPTURE": "Bp shocking",
+      "DEPTH CAPTURE": "0-1 m",
+      "PRESERVATIVE": ""
+    },
+    "ECOLOGICAL DATA": {
+      "GENERAL HABITAT": "Small upland river",
+      "ELEV.": "257-307m",
+      "STREAM WIDTH": "2-1/2m",
+      "MAX DEPTH": "0.5m",
+      "CURRENT": "Strong",
+      "COLOR": "Clear",
+      "TEMP": "",
+      "SALINITY": "",
+      "TIDE": "",
+      "BOTTOM TYPE": "Small rubble +boulders",
+      "VEGETATION": "",
+      "SHORE TYPE": "Steep banks/shore"
+    },
+    "ACC.#": "12642",
+    "ADD. NOTES/SPECIES LISTS ETC. on back": ""
+  },
+  "TRANSCRIPTION NOTES": "There was some difficulty with the handwriting, especially with the 'COUNTIES' which appear to read as 'BlouT', which likely is 'Blount'. The local coordinates under 'LAT' and 'LONG' could be misinterpreted due to handwriting quality, so values provided are best approximations."
+}
+```

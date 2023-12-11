@@ -1,0 +1,24 @@
+{
+    "id": "chatcmpl-8UL4BGU3dtXmzvcdljytrZ4qAFKYE",
+    "object": "chat.completion",
+    "created": 1702241511,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1789,
+        "completion_tokens": 698,
+        "total_tokens": 2487
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"NORTH CAROLINA STATE MUSEUM OF NATURAL SCIENCES AQUATIC/MARINE FIELD DATA SHEET\": {\n    \"DATE\": \"4 Sep 2013\",\n    \"TIME\": \"1235-1345 / 1415-1515\",\n    \"FIELD#\": \"WCS - 3614\",\n    \"REGIONAL DATA\": {\n      \"FOR FRESHWATER ONLY\": {\n        \"CONTINENT\": \"N. Am.\",\n        \"PRINCIPAL DRAINAGE BASIN\": \"Chesapeake Bay\",\n        \"RIVER SUBBASINS\": \"Potomac\",\n        \"COUNTRY\": \"USA\",\n        \"ST/PROV.\": \"VA - MD\"\n      },\n      \"FOR MARINE ONLY\": {\n        \"OCEAN\": \"\",\n        \"OCEAN SUBBASIN\": \"\",\n        \"COUNTRY (if coastal collection)\": \"\",\n        \"ST/PROV.\": \"\"\n      }\n    },\n    \"LOCALE DATA/COLLECTING INFORMATION\": {\n      \"COUNTIES\": \"Prince William / Charles\",\n      \"MAP SHEET\": \"\",\n      \"LOCALITY\": \"Potomac R., W shore [opposite?] Nanjemoy\",\n      \"LAT\": \"38.3501 / 38.34703\",\n      \"LONG\": \"77.2222 -77.25756 W\",\n      \"OTHER COORDS\": \"\",\n      \"VESSEL\": \"\",\n      \"CRUISE\": \"\",\n      \"STA#\": \"\",\n      \"PERMIT\": \"VDGIF\",\n      \"COLLECTORS\": \"see 3010\",\n      \"METHOD CAPTURE\": \"E/B boat and 12' seine\",\n      \"DEPTH CAPTURE\": \"0 to 2 m\",\n      \"PRESERVATIVE\": \"\"\n    },\n    \"ECOLOGICAL DATA\": {\n      \"GENERAL HABITAT\": \"large tidal river\",\n      \"ELEV.\": \"0.5 mi\",\n      \"STREAM WIDTH\": \"\",\n      \"MAX DEPTH\": \"2 m\",\n      \"CURRENT\": \"strong\",\n      \"COLOR\": \"brownish\",\n      \"TEMP\": \"\",\n      \"SALINITY\": \"slightly over 0.5 ppt\",\n      \"TIDE\": \"\",\n      \"BOTTOM TYPE\": \"Sand/Silt\",\n      \"VEGETATION\": \"planktonic, subtidal, som b. V\",\n      \"SHORE TYPE\": \"\"\n    },\n    \"ACC.#\": \"12926\",\n    \"ADD. NOTES/SPECIES LISTS ETC. on back\": \"Area of SAV Beds BTFD 215 in report to A. Hudgins of 2008-6855\"\n  },\n  \"TRANSCRIPTION NOTES\": \"Transcription was challenging due to unclear handwriting in some areas. The word opposite in 'LOCALITY' is not clear and is indicated with a question mark. 'see 3010' in 'COLLECTORS' section might refer to previously listed collectors or other documentation. The section 'VEGETATION' is particularly challenging due to poor handwriting; interpretation of 'som b. V' might not be accurate. The last part of 'ADD. NOTES/SPECIES LISTS ETC. on back' contains a number sequence '2008-6855' that is assumed to be some form of reference or identification number.\"\n}\n```"
+            },
+            "finish_details": {
+                "type": "stop",
+                "stop": "<|fim_suffix|>"
+            },
+            "index": 0
+        }
+    ]
+}

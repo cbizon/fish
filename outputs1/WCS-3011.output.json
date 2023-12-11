@@ -1,0 +1,63 @@
+```json
+{
+  "NORTH CAROLINA STATE MUSEUM OF NATURAL SCIENCES AQUATIC/MARINE FIELD DATA SHEET":
+  {
+    "DATE": "3 Sep 2013",
+    "TIME": "1600-1700",
+    "FIELD#": "WCS - 3011",
+    "REGIONAL DATA":
+    {
+      "FOR FRESHWATER ONLY":
+      {
+        "CONTINENT": "N. Am.",
+        "PRINCIPAL DRAINAGE BASIN": "Chesapeake Bay",
+        "RIVER SUBBASINS": "Potomac",
+        "COUNTRY": "USA",
+        "ST/PROV.": "VA"
+      },
+      "FOR MARINE ONLY":
+      {
+        "OCEAN": "",
+        "OCEAN SUBBASIN": "",
+        "COUNTRY (if coastal collection)": "",
+        "ST/PROV.": ""
+      }
+    },
+    "LOCALE DATA/COLLECTING INFORMATION":
+    {
+      "COUNTIES": "Stafford",
+      "MAP SHEET": "",
+      "LOCALITY": "Accokeek Creek Lower third reach from 95",
+      "LAT": "38.3278 N",
+      "LONG": "77.3857 W",
+      "OTHER COORDS": "",
+      "VESSEL": "",
+      "CRUISE": "",
+      "STA#": "",
+      "PERMIT": "VGIF",
+      "COLLECTORS": "See 36-0",
+      "METHOD CAPTURE": "EF boat",
+      "DEPTH CAPTURE": "2 m +/-",
+      "PRESERVATIVE": ""
+    },
+    "ECOLOGICAL DATA":
+    {
+      "GENERAL HABITAT": "upper tidal creek of broad salinity",
+      "ELEV.": "tidal",
+      "STREAM WIDTH": "",
+      "MAX DEPTH": "2 m +/-",
+      "CURRENT": "slug",
+      "COLOR": "light tanic",
+      "TEMP": "",
+      "SALINITY": "low",
+      "TIDE": "high",
+      "BOTTOM TYPE": "mud/shell det.",
+      "VEGETATION": "Hydrilla & other",
+      "SHORE TYPE": "wooded"
+    },
+    "ACC.#": "12/626",
+    "ADD. NOTES/SPECIES LISTS ETC. on back": "photos 6-13 waypoint 22 & 23"
+  },
+  "TRANSCRIPTION NOTES": "The handwriting on the form was difficult to decipher in some areas, particularly on the words that were incomplete or obscured due to handwriting. Effort was made to accurately represent the written text, but some of the text was interpreted based on context and best effort."
+}
+```

@@ -1,0 +1,57 @@
+```json
+{
+  "NORTH CAROLINA STATE MUSEUM OF NATURAL SCIENCES AQUATIC/MARINE FIELD DATA SHEET": {
+    "DATE": "3 Sep 2013",
+    "TIME": "0400-1530",
+    "FIELD#": "WCS- 3010",
+    "REGIONAL DATA": {
+      "FOR FRESHWATER ONLY": {
+        "CONTINENT": "N. Am.",
+        "PRINCIPAL DRAINAGE BASIN": "Chesapeake Bay",
+        "RIVER SUBBASINS": "Potomac",
+        "COUNTRY": "USA",
+        "ST/PROV.": "VA"
+      },
+      "FOR MARINE ONLY": {
+        "OCEAN": "",
+        "OCEAN SUBBASIN": "",
+        "COUNTRY (if coastal collection)": "",
+        "ST/PROV.": ""
+      }
+    },
+    "LOCALE DATA/COLLECTING INFORMATION": {
+      "COUNTIES": "Stafford",
+      "MAP SHEET": "69.9",
+      "LOCALITY": "Potomac Creek, lower tidal reach, (Coarse Gain)",
+      "LAT": "38.37777 N, 38.3866 N",
+      "LONG": "77.23789 W, 77.23782 W",
+      "OTHER COORDS": "",
+      "VESSEL": "",
+      "CRUISE": "",
+      "STA#": "",
+      "PERMIT": "NP6,F",
+      "COLLECTORS": "WC Stevens, GM Hughes, MC Ashton, J. Odumrich",
+      "METHOD CAPTURE": "EFB",
+      "DEPTH CAPTURE": "to 2m",
+      "PRESERVATIVE": "Formalin 20th"
+    },
+    "ECOLOGICAL DATA": {
+      "GENERAL HABITAT": "Tidal creek",
+      "ELEV.": "",
+      "STREAM WIDTH": "",
+      "MAX DEPTH": "3 ft",
+      "CURRENT": "Tidal",
+      "COLOR": "Turbid/clr",
+      "TEMP": "Slightly mud",
+      "SALINITY": "",
+      "TIDE": "",
+      "BOTTOM TYPE": "Sandy/silt",
+      "VEGETATION": "heavy Hydrilla",
+      "SHORE TYPE": "forests/fields, residential"
+    },
+    "ACC.#": "12226",
+    "ADD. NOTES/SPECIES LISTS ETC. on back": ""
+  },
+  "TRANSCRIPTION NOTES": "There was some uncertainty with the precise entry for 'MAX DEPTH' due to writing clarity, but the best interpretation seems to be '3 ft'. The 'MAP SHEET' entry contained an unclear number that appeared to be '69.9'. The 'LOCALITY' contains additional explanatory text '(Coarse Gain)' which was not clearly part of the form field but was included in that value. 'TEMP' entry seemed unusual as 'Slightly mud' which could be an error or a note meant for another section. GPS coordinates were provided as two sets of latitude and longitude, both were included in respective fields. Some words were challenging to decipher but have been transcribed as accurately as possible."
+}
+```

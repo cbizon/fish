@@ -1,0 +1,57 @@
+```json
+{
+  "NORTH CAROLINA STATE MUSEUM OF NATURAL SCIENCES AQUATIC/MARINE FIELD DATA SHEET": {
+    "DATE": "Sept. 10/13",
+    "TIME": "1215/1330",
+    "FIELD#": "WCS-3013",
+    "REGIONAL DATA": {
+      "FOR FRESHWATER ONLY": {
+        "CONTINENT": "N. Am.",
+        "PRINCIPAL DRAINAGE BASIN": "Chesapeake Bay",
+        "RIVER SUBBASINS": "Potomac",
+        "COUNTRY": "USA",
+        "ST/PROV.": "VA"
+      },
+      "FOR MARINE ONLY": {
+        "OCEAN": "",
+        "OCEAN SUBBASIN": "",
+        "COUNTRY (if coastal collection)": "",
+        "ST/PROV.": ""
+      }
+    },
+    "LOCALE DATA/COLLECTING INFORMATION": {
+      "COUNTIES": "Prince William",
+      "MAP SHEET": "WQ-E",
+      "LOCALITY": "Powells Cr., lower tidal reach 85 of CSX RR bridge, - on rm-ENE Dumfries",
+      "LAT": "38.56783; 38.51795",
+      "LONG": "77.24883 > 77.26721",
+      "OTHER COORDS": "",
+      "VESSEL": "",
+      "CRUISE": "",
+      "STA#": "",
+      "PERMIT": "YGLF",
+      "COLLECTORS": "See 3010",
+      "METHOD CAPTURE": "EF boat",
+      "DEPTH CAPTURE": "to 2m",
+      "PRESERVATIVE": "eth."
+    },
+    "ECOLOGICAL DATA": {
+      "GENERAL HABITAT": "Large tidal creek enviropt",
+      "ELEV.": "",
+      "STREAM WIDTH": "low",
+      "MAX DEPTH": "2m",
+      "CURRENT": "Sug.",
+      "COLOR": "Turbid",
+      "TEMP": "",
+      "SALINITY": "",
+      "TIDE": "",
+      "BOTTOM TYPE": "silt/sand etc",
+      "VEGETATION": "Obscured; SAV",
+      "SHORE TYPE": "wooded"
+    },
+    "ACC.#": "12326",
+    "ADD. NOTES/SPECIES LISTS ETC. on back": ""
+  },
+  "TRANSCRIPTION NOTES": "The handwriting was challenging in certain areas; some words such as 'enviropt' in GENERAL HABITAT and 'Sug.' in CURRENT may not be fully accurate due to poor legibility. The abbreviation 'EF' in METHOD CAPTURE is assumed to be a shorthand used by the collector and its full form is not clarified."
+}
+```

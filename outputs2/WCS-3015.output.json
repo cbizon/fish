@@ -1,0 +1,57 @@
+```json
+{
+  "NORTH CAROLINA STATE MUSEUM OF NATURAL SCIENCES AQUATIC/MARINE FIELD DATA SHEET": {
+    "DATE": "5 Sept 2013",
+    "TIME": "1200 - 1330",
+    "FIELD#": "WCS-3015",
+    "REGIONAL DATA": {
+      "FOR FRESHWATER ONLY": {
+        "CONTINENT": "N. Am.",
+        "PRINCIPAL DRAINAGE BASIN": "Chesapeake Bay",
+        "RIVER SUBBASINS": "Jones",
+        "COUNTRY": "USA",
+        "ST/PROV.": "VA"
+      },
+      "FOR MARINE ONLY": {
+        "OCEAN": "",
+        "OCEAN SUBBASIN": "",
+        "COUNTRY (if coastal collection)": "",
+        "ST/PROV.": ""
+      }
+    },
+    "LOCALE DATA/COLLECTING INFORMATION": {
+      "COUNTIES": "Chesterfield",
+      "MAP SHEET": "on side",
+      "LOCALITY": "Buckwater area of Appomattox R. The Sturgeon TR ; BEL ovr mir NW of Sutherland",
+      "LAT": "37.22767° / 37.30149°",
+      "LONG": "77.37933° - 77.40373°",
+      "OTHER COORDS": "waypoints 32+33",
+      "VESSEL": "",
+      "CRUISE": "",
+      "STA#": "",
+      "PERMIT": "V081F",
+      "COLLECTORS": "WC Strawn, SM Harju, MG Gotman, L.A. Weaver (Pilot)",
+      "METHOD CAPTURE": "Electro Boat (L & Alf boat)",
+      "DEPTH CAPTURE": "to 1m",
+      "PRESERVATIVE": "Form."
+    },
+    "ECOLOGICAL DATA": {
+      "GENERAL HABITAT": "large flood backwater area",
+      "ELEV.": "",
+      "STREAM WIDTH": "",
+      "MAX DEPTH": "1m",
+      "CURRENT": "0",
+      "COLOR": "murky/brow",
+      "TEMP": "",
+      "SALINITY": "absent / F.W.",
+      "TIDE": "",
+      "BOTTOM TYPE": "silt",
+      "VEGETATION": "",
+      "SHORE TYPE": "wood"
+    },
+    "ACC.#": "1226",
+    "ADD. NOTES/SPECIES LISTS ETC. on back": "barrens up from L. Cike edin"
+  },
+  "TRANSCRIPTION NOTES": "Handwriting was challenging in some parts, especially deciphering abbreviations and proper names. The 'RIVER SUBBASINS' field ends with 'Jones,' with possibly a continuation that is difficult to decipher. The 'LOCALITY' field was particularly difficult to read; where it says 'Sturgeon TR ; BEL ovr mir NW of Sutherland' and additional coordinates or notes may be present but are unclear. The 'MAX DEPTH' field states '1m' alongside the handwritten note 'mod.' which significance is unclear. 'PRESERVATIVE' appears to be abbreviated to 'Form.' which presumably stands for formalin or a similar preservative. Exercised best judgment in deciphering the acronyms and abbreviations in the 'COLLECTORS', 'METHOD CAPTURE', and 'ECOLOGICAL DATA' fields. The word 'Pilot' after L.A. Weaver's name indicates their role but is grouped with collectors for clear association with the context. 'ECOLOGICAL DATA' presents a challenge with the 'COLOR' entry as the second part is hard to read; 'murky/brow' is an approximation."
+}
+```

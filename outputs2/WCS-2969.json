@@ -1,0 +1,24 @@
+{
+    "id": "chatcmpl-8UgBF6wnVTOwAbPuIiFQs3sSA89R5",
+    "object": "chat.completion",
+    "created": 1702322673,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1789,
+        "completion_tokens": 572,
+        "total_tokens": 2361
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"NORTH CAROLINA STATE MUSEUM OF NATURAL SCIENCES AQUATIC/MARINE FIELD DATA SHEET\": {\n    \"DATE\": \"9 Nov 2011\",\n    \"TIME\": \"1230-1800\",\n    \"FIELD#\": \"WCS-2793\",\n    \"REGIONAL DATA\": {\n      \"FOR FRESHWATER ONLY\": {\n        \"CONTINENT\": \"N. Am.\",\n        \"PRINCIPAL DRAINAGE BASIN\": \"Mississippi\",\n        \"RIVER SUBBASINS\": \"Tenn./Little\",\n        \"COUNTRY\": \"USA\",\n        \"ST/PROV.\": \"TN\"\n      },\n      \"FOR MARINE ONLY\": {\n        \"OCEAN\": \"\",\n        \"OCEAN SUBBASIN\": \"\",\n        \"COUNTRY (if coastal collection)\": \"\",\n        \"ST/PROV.\": \"\"\n      }\n    },\n    \"LOCALE DATA/COLLECTING INFORMATION\": {\n      \"COUNTIES\": \"Blount\",\n      \"MAP SHEET\": \"\",\n      \"LOCALITY\": \"Little R above 50-150 m below US Hwy 35\",\n      \"LAT\": \"35.7892\",\n      \"LONG\": \"83.8922\",\n      \"OTHER COORDS\": \"\",\n      \"VESSEL\": \"\",\n      \"CRUISE\": \"\",\n      \"STA#\": \"\",\n      \"PERMIT\": \"TWRA 1189\",\n      \"COLLECTORS\": \"See 2962\",\n      \"METHOD CAPTURE\": \"Bp shocking\",\n      \"DEPTH CAPTURE\": \"0-1 m\",\n      \"PRESERVATIVE\": \"\"\n    },\n    \"ECOLOGICAL DATA\": {\n      \"GENERAL HABITAT\": \"Small upland river\",\n      \"ELEV.\": \"257-307m\",\n      \"STREAM WIDTH\": \"2-1/2m\",\n      \"MAX DEPTH\": \"0.5m\",\n      \"CURRENT\": \"Strong\",\n      \"COLOR\": \"Clear\",\n      \"TEMP\": \"\",\n      \"SALINITY\": \"\",\n      \"TIDE\": \"\",\n      \"BOTTOM TYPE\": \"Small rubble +boulders\",\n      \"VEGETATION\": \"\",\n      \"SHORE TYPE\": \"Steep banks/shore\"\n    },\n    \"ACC.#\": \"12642\",\n    \"ADD. NOTES/SPECIES LISTS ETC. on back\": \"\"\n  },\n  \"TRANSCRIPTION NOTES\": \"There was some difficulty with the handwriting, especially with the 'COUNTIES' which appear to read as 'BlouT', which likely is 'Blount'. The local coordinates under 'LAT' and 'LONG' could be misinterpreted due to handwriting quality, so values provided are best approximations.\"\n}\n```"
+            },
+            "finish_details": {
+                "type": "stop",
+                "stop": "<|fim_suffix|>"
+            },
+            "index": 0
+        }
+    ]
+}

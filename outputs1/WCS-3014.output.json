@@ -1,0 +1,57 @@
+```json
+{
+  "NORTH CAROLINA STATE MUSEUM OF NATURAL SCIENCES AQUATIC/MARINE FIELD DATA SHEET": {
+    "DATE": "4 Sep 2013",
+    "TIME": "1235-1345 / 1415-1515",
+    "FIELD#": "WCS - 3614",
+    "REGIONAL DATA": {
+      "FOR FRESHWATER ONLY": {
+        "CONTINENT": "N. Am.",
+        "PRINCIPAL DRAINAGE BASIN": "Chesapeake Bay",
+        "RIVER SUBBASINS": "Potomac",
+        "COUNTRY": "USA",
+        "ST/PROV.": "VA - MD"
+      },
+      "FOR MARINE ONLY": {
+        "OCEAN": "",
+        "OCEAN SUBBASIN": "",
+        "COUNTRY (if coastal collection)": "",
+        "ST/PROV.": ""
+      }
+    },
+    "LOCALE DATA/COLLECTING INFORMATION": {
+      "COUNTIES": "Prince William / Charles",
+      "MAP SHEET": "",
+      "LOCALITY": "Potomac R., W shore [opposite?] Nanjemoy",
+      "LAT": "38.3501 / 38.34703",
+      "LONG": "77.2222 -77.25756 W",
+      "OTHER COORDS": "",
+      "VESSEL": "",
+      "CRUISE": "",
+      "STA#": "",
+      "PERMIT": "VDGIF",
+      "COLLECTORS": "see 3010",
+      "METHOD CAPTURE": "E/B boat and 12' seine",
+      "DEPTH CAPTURE": "0 to 2 m",
+      "PRESERVATIVE": ""
+    },
+    "ECOLOGICAL DATA": {
+      "GENERAL HABITAT": "large tidal river",
+      "ELEV.": "0.5 mi",
+      "STREAM WIDTH": "",
+      "MAX DEPTH": "2 m",
+      "CURRENT": "strong",
+      "COLOR": "brownish",
+      "TEMP": "",
+      "SALINITY": "slightly over 0.5 ppt",
+      "TIDE": "",
+      "BOTTOM TYPE": "Sand/Silt",
+      "VEGETATION": "planktonic, subtidal, som b. V",
+      "SHORE TYPE": ""
+    },
+    "ACC.#": "12926",
+    "ADD. NOTES/SPECIES LISTS ETC. on back": "Area of SAV Beds BTFD 215 in report to A. Hudgins of 2008-6855"
+  },
+  "TRANSCRIPTION NOTES": "Transcription was challenging due to unclear handwriting in some areas. The word opposite in 'LOCALITY' is not clear and is indicated with a question mark. 'see 3010' in 'COLLECTORS' section might refer to previously listed collectors or other documentation. The section 'VEGETATION' is particularly challenging due to poor handwriting; interpretation of 'som b. V' might not be accurate. The last part of 'ADD. NOTES/SPECIES LISTS ETC. on back' contains a number sequence '2008-6855' that is assumed to be some form of reference or identification number."
+}
+```

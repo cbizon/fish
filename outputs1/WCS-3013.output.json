@@ -1,0 +1,57 @@
+```json
+{
+  "NORTH CAROLINA STATE MUSEUM OF NATURAL SCIENCES AQUATIC/MARINE FIELD DATA SHEET": {
+    "DATE": "Sept. 10/13", 
+    "TIME": "1215 - 1330", 
+    "FIELD#": "WCS-3013", 
+    "REGIONAL DATA": { 
+      "FOR FRESHWATER ONLY": { 
+        "CONTINENT": "N. Am.", 
+        "PRINCIPAL DRAINAGE BASIN": "Chesapeake Bay", 
+        "RIVER SUBBASINS": "Potomac", 
+        "COUNTRY": "USA", 
+        "ST/PROV.": "VA" 
+      }, 
+      "FOR MARINE ONLY": { 
+        "OCEAN": "", 
+        "OCEAN SUBBASIN": "", 
+        "COUNTRY (if coastal collection)": "", 
+        "ST/PROV.": "" 
+      } 
+    }, 
+    "LOCALE DATA/COLLECTING INFORMATION": { 
+      "COUNTIES": "Prince William", 
+      "MAP SHEET": "WofE", 
+      "LOCALITY": "Powells Cr., Lower tidal reach DS of CSX RR bridge - on RR ENE Dumfries", 
+      "LAT": "38.576873", 
+      "LONG": "77.262873", 
+      "OTHER COORDS": "", 
+      "VESSEL": "", 
+      "CRUISE": "", 
+      "STA#": "", 
+      "PERMIT": "VDGIF", 
+      "COLLECTORS": "See 3010", 
+      "METHOD CAPTURE": "EF boat", 
+      "DEPTH CAPTURE": "to 2m", 
+      "PRESERVATIVE": "eth." 
+    }, 
+    "ECOLOGICAL DATA": { 
+      "GENERAL HABITAT": "large tidal creek enviro(ent)", 
+      "ELEV.": "2m", 
+      "STREAM WIDTH": "low med. high", 
+      "MAX DEPTH": "mud, med. high", 
+      "CURRENT": "S(vg. -", 
+      "COLOR": "Turbid", 
+      "TEMP": "", 
+      "SALINITY": "", 
+      "TIDE": "sft/Sand etc.", 
+      "BOTTOM TYPE": "", 
+      "VEGETATION": "Observed, SOV (By depth, some Cat/1/9, mul./fol. etc.", 
+      "SHORE TYPE": "Wooded" 
+    }, 
+    "ACC.#": "12216", 
+    "ADD. NOTES/SPECIES LISTS ETC. on back": "" 
+  }, 
+  "TRANSCRIPTION NOTES": "Handwriting was challenging to interpret in some sections, especially in 'GENERAL HABITAT', 'CURRENT', 'VEGETATION', and the note related to the image which indicates 'photos - 34-45 waterp(r)its - 28+29'. Interpretation of certain terms and numbers might be slightly inaccurate due to the quality of handwriting."
+}
+```

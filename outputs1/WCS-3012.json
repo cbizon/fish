@@ -1,0 +1,24 @@
+{
+    "id": "chatcmpl-8UL4tukBhFtqLTtTuxniGdTEJAL1o",
+    "object": "chat.completion",
+    "created": 1702241555,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1789,
+        "completion_tokens": 601,
+        "total_tokens": 2390
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"NORTH CAROLINA STATE MUSEUM OF NATURAL SCIENCES AQUATIC/MARINE FIELD DATA SHEET\": {\n    \"DATE\": \"4 Sept 2012\",\n    \"TIME\": \"07:30-11:30\",\n    \"FIELD#\": \"WC3-3012\",\n    \"REGIONAL DATA\": {\n      \"FOR FRESHWATER ONLY\": {\n        \"CONTINENT\": \"N. Am.\",\n        \"PRINCIPAL DRAINAGE BASIN\": \"Chesapeake Bay\",\n        \"RIVER SUBBASINS\": \"Potomac\",\n        \"COUNTRY\": \"USA\",\n        \"ST/PROV.\": \"VA\"\n      },\n      \"FOR MARINE ONLY\": {\n        \"OCEAN\": \"\",\n        \"OCEAN SUBBASIN\": \"\",\n        \"COUNTRY (if coastal collection)\": \"\",\n        \"ST/PROV.\": \"\"\n      }\n    },\n    \"LOCALE DATA/COLLECTING INFORMATION\": {\n      \"COUNTIES\": \"Fairfax\",\n      \"MAP SHEET\": \"\",\n      \"LOCALITY\": \"Pohick by Pohick Bay Park and Belmont Bay on Potomac R.\",\n      \"LAT\": \"38.654089 (-76.383282)\",\n      \"LONG\": \"77.184504 (-77.227878)\",\n      \"OTHER COORDS\": \"GPS c/o Woodbridge\",\n      \"VESSEL\": \"\",\n      \"CRUISE\": \"\",\n      \"STA#\": \"\",\n      \"PERMIT\": \"VDGIF\",\n      \"COLLECTORS\": \"See 3610\",\n      \"METHOD CAPTURE\": \"EF boat\",\n      \"DEPTH CAPTURE\": \"to 2m\",\n      \"PRESERVATIVE\": \"\"\n    },\n    \"ECOLOGICAL DATA\": {\n      \"GENERAL HABITAT\": \"Tidal Creek or adjacent embayment\",\n      \"ELEV.\": \"low\",\n      \"STREAM WIDTH\": \"\",\n      \"MAX DEPTH\": \"2-3 m\",\n      \"CURRENT\": \"slg\",\n      \"COLOR\": \"V. clear\",\n      \"TEMP\": \"\",\n      \"SALINITY\": \"\",\n      \"TIDE\": \"\",\n      \"BOTTOM TYPE\": \"Silt/sand\",\n      \"VEGETATION\": \"abundant flora, some cattail, everything else\",\n      \"SHORE TYPE\": \"Wood\"\n    },\n    \"ACC.#\": \"192126\",\n    \"ADD. NOTES/SPECIES LISTS ETC. on back\": \"yes\"\n  },\n  \"TRANSCRIPTION NOTES\": \"Some handwriting was difficult to decipher, especially the abbreviations used for current ('slg') and color ('V. clear'). The latitude and longitude were provided with negative values in parentheses, possibly as corrections to the printed coordinates. Due to the complexities of human handwriting, there may be small discrepancies in interpreting characters and words.\"\n}\n```"
+            },
+            "finish_details": {
+                "type": "stop",
+                "stop": "<|fim_suffix|>"
+            },
+            "index": 0
+        }
+    ]
+}

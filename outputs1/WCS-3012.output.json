@@ -1,0 +1,57 @@
+```json
+{
+  "NORTH CAROLINA STATE MUSEUM OF NATURAL SCIENCES AQUATIC/MARINE FIELD DATA SHEET": {
+    "DATE": "4 Sept 2012",
+    "TIME": "07:30-11:30",
+    "FIELD#": "WC3-3012",
+    "REGIONAL DATA": {
+      "FOR FRESHWATER ONLY": {
+        "CONTINENT": "N. Am.",
+        "PRINCIPAL DRAINAGE BASIN": "Chesapeake Bay",
+        "RIVER SUBBASINS": "Potomac",
+        "COUNTRY": "USA",
+        "ST/PROV.": "VA"
+      },
+      "FOR MARINE ONLY": {
+        "OCEAN": "",
+        "OCEAN SUBBASIN": "",
+        "COUNTRY (if coastal collection)": "",
+        "ST/PROV.": ""
+      }
+    },
+    "LOCALE DATA/COLLECTING INFORMATION": {
+      "COUNTIES": "Fairfax",
+      "MAP SHEET": "",
+      "LOCALITY": "Pohick by Pohick Bay Park and Belmont Bay on Potomac R.",
+      "LAT": "38.654089 (-76.383282)",
+      "LONG": "77.184504 (-77.227878)",
+      "OTHER COORDS": "GPS c/o Woodbridge",
+      "VESSEL": "",
+      "CRUISE": "",
+      "STA#": "",
+      "PERMIT": "VDGIF",
+      "COLLECTORS": "See 3610",
+      "METHOD CAPTURE": "EF boat",
+      "DEPTH CAPTURE": "to 2m",
+      "PRESERVATIVE": ""
+    },
+    "ECOLOGICAL DATA": {
+      "GENERAL HABITAT": "Tidal Creek or adjacent embayment",
+      "ELEV.": "low",
+      "STREAM WIDTH": "",
+      "MAX DEPTH": "2-3 m",
+      "CURRENT": "slg",
+      "COLOR": "V. clear",
+      "TEMP": "",
+      "SALINITY": "",
+      "TIDE": "",
+      "BOTTOM TYPE": "Silt/sand",
+      "VEGETATION": "abundant flora, some cattail, everything else",
+      "SHORE TYPE": "Wood"
+    },
+    "ACC.#": "192126",
+    "ADD. NOTES/SPECIES LISTS ETC. on back": "yes"
+  },
+  "TRANSCRIPTION NOTES": "Some handwriting was difficult to decipher, especially the abbreviations used for current ('slg') and color ('V. clear'). The latitude and longitude were provided with negative values in parentheses, possibly as corrections to the printed coordinates. Due to the complexities of human handwriting, there may be small discrepancies in interpreting characters and words."
+}
+```

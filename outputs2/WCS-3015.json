@@ -1,0 +1,24 @@
+{
+    "id": "chatcmpl-8Ug9BPtYViZljVPxTAxAi8F813h4D",
+    "object": "chat.completion",
+    "created": 1702322545,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1789,
+        "completion_tokens": 802,
+        "total_tokens": 2591
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"NORTH CAROLINA STATE MUSEUM OF NATURAL SCIENCES AQUATIC/MARINE FIELD DATA SHEET\": {\n    \"DATE\": \"5 Sept 2013\",\n    \"TIME\": \"1200 - 1330\",\n    \"FIELD#\": \"WCS-3015\",\n    \"REGIONAL DATA\": {\n      \"FOR FRESHWATER ONLY\": {\n        \"CONTINENT\": \"N. Am.\",\n        \"PRINCIPAL DRAINAGE BASIN\": \"Chesapeake Bay\",\n        \"RIVER SUBBASINS\": \"Jones\",\n        \"COUNTRY\": \"USA\",\n        \"ST/PROV.\": \"VA\"\n      },\n      \"FOR MARINE ONLY\": {\n        \"OCEAN\": \"\",\n        \"OCEAN SUBBASIN\": \"\",\n        \"COUNTRY (if coastal collection)\": \"\",\n        \"ST/PROV.\": \"\"\n      }\n    },\n    \"LOCALE DATA/COLLECTING INFORMATION\": {\n      \"COUNTIES\": \"Chesterfield\",\n      \"MAP SHEET\": \"on side\",\n      \"LOCALITY\": \"Buckwater area of Appomattox R. The Sturgeon TR ; BEL ovr mir NW of Sutherland\",\n      \"LAT\": \"37.22767\u00b0 / 37.30149\u00b0\",\n      \"LONG\": \"77.37933\u00b0 - 77.40373\u00b0\",\n      \"OTHER COORDS\": \"waypoints 32+33\",\n      \"VESSEL\": \"\",\n      \"CRUISE\": \"\",\n      \"STA#\": \"\",\n      \"PERMIT\": \"V081F\",\n      \"COLLECTORS\": \"WC Strawn, SM Harju, MG Gotman, L.A. Weaver (Pilot)\",\n      \"METHOD CAPTURE\": \"Electro Boat (L & Alf boat)\",\n      \"DEPTH CAPTURE\": \"to 1m\",\n      \"PRESERVATIVE\": \"Form.\"\n    },\n    \"ECOLOGICAL DATA\": {\n      \"GENERAL HABITAT\": \"large flood backwater area\",\n      \"ELEV.\": \"\",\n      \"STREAM WIDTH\": \"\",\n      \"MAX DEPTH\": \"1m\",\n      \"CURRENT\": \"0\",\n      \"COLOR\": \"murky/brow\",\n      \"TEMP\": \"\",\n      \"SALINITY\": \"absent / F.W.\",\n      \"TIDE\": \"\",\n      \"BOTTOM TYPE\": \"silt\",\n      \"VEGETATION\": \"\",\n      \"SHORE TYPE\": \"wood\"\n    },\n    \"ACC.#\": \"1226\",\n    \"ADD. NOTES/SPECIES LISTS ETC. on back\": \"barrens up from L. Cike edin\"\n  },\n  \"TRANSCRIPTION NOTES\": \"Handwriting was challenging in some parts, especially deciphering abbreviations and proper names. The 'RIVER SUBBASINS' field ends with 'Jones,' with possibly a continuation that is difficult to decipher. The 'LOCALITY' field was particularly difficult to read; where it says 'Sturgeon TR ; BEL ovr mir NW of Sutherland' and additional coordinates or notes may be present but are unclear. The 'MAX DEPTH' field states '1m' alongside the handwritten note 'mod.' which significance is unclear. 'PRESERVATIVE' appears to be abbreviated to 'Form.' which presumably stands for formalin or a similar preservative. Exercised best judgment in deciphering the acronyms and abbreviations in the 'COLLECTORS', 'METHOD CAPTURE', and 'ECOLOGICAL DATA' fields. The word 'Pilot' after L.A. Weaver's name indicates their role but is grouped with collectors for clear association with the context. 'ECOLOGICAL DATA' presents a challenge with the 'COLOR' entry as the second part is hard to read; 'murky/brow' is an approximation.\"\n}\n```"
+            },
+            "finish_details": {
+                "type": "stop",
+                "stop": "<|fim_suffix|>"
+            },
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "id": "chatcmpl-8Ug8iIuAnOmsTE8ZKTktHjC427cL5",
+    "object": "chat.completion",
+    "created": 1702322516,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1789,
+        "completion_tokens": 613,
+        "total_tokens": 2402
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"NORTH CAROLINA STATE MUSEUM OF NATURAL SCIENCES AQUATIC/MARINE FIELD DATA SHEET\": {\n    \"DATE\": \"25 Jan 84\",\n    \"TIME\": \"1350 - 1430\",\n    \"FIELD#\": \"WCS-3068\",\n    \"REGIONAL DATA\": {\n      \"FOR FRESHWATER ONLY\": {\n        \"CONTINENT\": \"N. Am.\",\n        \"PRINCIPAL DRAINAGE BASIN\": \"Chesapeake\",\n        \"RIVER SUBBASINS\": \"Rappahannock River\",\n        \"COUNTRY\": \"USA\",\n        \"ST/PROV.\": \"VA\"\n      },\n      \"FOR MARINE ONLY\": {\n        \"OCEAN\": \"\",\n        \"OCEAN SUBBASIN\": \"\",\n        \"COUNTRY (if coastal collection)\": \"\",\n        \"ST/PROV.\": \"\"\n      }\n    },\n    \"LOCALE DATA/COLLECTING INFORMATION\": {\n      \"COUNTIES\": \"Orange\",\n      \"MAP SHEET\": \"unmarked Zoom Rd (SE-6?)\",\n      \"LOCALITY\": \"Mine Run off Raccoon Ford MT Gordon 21.7 just SSE SW of 622 Hill, Burton mi E of\",\n      \"LAT\": \"38.30978\",\n      \"LONG\": \"77.86577\",\n      \"OTHER COORDS\": \"\",\n      \"VESSEL\": \"\",\n      \"CRUISE\": \"\",\n      \"STA#\": \"\",\n      \"PERMIT\": \"\",\n      \"COLLECTORS\": \"See 3059\",\n      \"METHOD CAPTURE\": \"Seine\",\n      \"DEPTH CAPTURE\": \"0 to 15\",\n      \"PRESERVATIVE\": \"Formal\"\n    },\n    \"ECOLOGICAL DATA\": {\n      \"GENERAL HABITAT\": \"Large (off Piedmont Creek)\",\n      \"ELEV.\": \"182 - MAX\",\n      \"STREAM WIDTH\": \"70 to 15\",\n      \"MAX DEPTH\": \"m MAX\",\n      \"CURRENT\": \"slightly\",\n      \"COLOR\": \"slight green\",\n      \"TEMP\": \"\",\n      \"SALINITY\": \"\",\n      \"TIDE\": \"\",\n      \"BOTTOM TYPE\": \"Sandy, gravel, rubble some boulder\",\n      \"VEGETATION\": \"\",\n      \"SHORE TYPE\": \"Wood\"\n    },\n    \"ACC.#\": \"1344\",\n    \"ADD. NOTES/SPECIES LISTS ETC. on back\": \"See back\"\n  },\n  \"TRANSCRIPTION NOTES\": \"There were difficulties in transcribing some parts of the handwriting, particularly with the location and habitat details. It has been interpreted to the best of my ability. The locality details are especially complex and uncertain.\"\n}\n```\n\nPlease note that the handwriting was indeed difficult to discern in some places, and the interpretation, especially for the LOCALITY, was challenging. The transcription is provided to the best of my understanding."
+            },
+            "finish_details": {
+                "type": "stop",
+                "stop": "<|fim_suffix|>"
+            },
+            "index": 0
+        }
+    ]
+}

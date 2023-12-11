@@ -1,0 +1,57 @@
+```json
+{
+  "NORTH CAROLINA STATE MUSEUM OF NATURAL SCIENCES AQUATIC/MARINE FIELD DATA SHEET": {
+    "DATE": "23 Nov. 20 11",
+    "TIME": "13:08-16:50",
+    "FIELD#": "LCS - 22788",
+    "REGIONAL DATA": {
+      "FOR FRESHWATER ONLY": {
+        "CONTINENT": "N. Am.",
+        "PRINCIPAL DRAINAGE BASIN": "Miss",
+        "RIVER SUBBASINS": "Clinch",
+        "COUNTRY": "U.S.A.",
+        "ST/PROV.": "TN"
+      },
+      "FOR MARINE ONLY": {
+        "OCEAN": "",
+        "OCEAN SUBBASIN": "",
+        "COUNTRY (if coastal collection)": "",
+        "ST/PROV.": ""
+      }
+    },
+    "LOCALE DATA/COLLECTING INFORMATION": {
+      "COUNTIES": "Hancock",
+      "MAP SHEET": "X",
+      "LOCALITY": "Clinch R. at Frost Ford by Tenn(essee) Roberts Rd (0.1 mi above Panther). 3.6 mi. E of Sneedville",
+      "LAT": "36, 38'02\" N",
+      "LONG": "83,15'09\" W",
+      "OTHER COORDS": "",
+      "VESSEL": "",
+      "CRUISE": "",
+      "STA#": "",
+      "PERMIT": "TWRA",
+      "COLLECTORS": "Su 2967",
+      "METHOD CAPTURE": "bp. Seine",
+      "DEPTH CAPTURE": "to 12'",
+      "PRESERVATIVE": "Form. + eth."
+    },
+    "ECOLOGICAL DATA": {
+      "GENERAL HABITAT": "mod. Relay oxbow river",
+      "ELEV.": "50m",
+      "STREAM WIDTH": "2m",
+      "MAX DEPTH": "",
+      "CURRENT": "",
+      "COLOR": "clear",
+      "TEMP": "",
+      "SALINITY": "",
+      "TIDE": "",
+      "BOTTOM TYPE": "gravel/sand/large rocks/shells",
+      "VEGETATION": "f\downarrowa\downarrowrgrs.",
+      "SHORE TYPE": "flooded cypress trees etc."
+    },
+    "ACC.#": "12616",
+    "ADD. NOTES/SPECIES LISTS ETC. on back": "+ Frost Ford is a local named, not found on most maps"
+  },
+  "TRANSCRIPTION NOTES": "The word before 'oxbow river' in GENERAL HABITAT was very unclear, the best guess is 'mod. Relay'. 'fargrs' in VEGETATION could be incorrect due to unclear handwriting. Also, interpretation of abbreviations and partial words was necessary in some instances."
+}
+```

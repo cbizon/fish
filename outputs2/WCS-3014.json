@@ -1,0 +1,24 @@
+{
+    "id": "chatcmpl-8Ug9YrLSc51ICUuxrVvw4adv3q1wC",
+    "object": "chat.completion",
+    "created": 1702322568,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1789,
+        "completion_tokens": 634,
+        "total_tokens": 2423
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"NORTH CAROLINA STATE MUSEUM OF NATURAL SCIENCES AQUATIC/MARINE FIELD DATA SHEET\": {\n    \"DATE\": \"4 Sep 2013\",\n    \"TIME\": \"2315-2345, 1415-1515\",\n    \"FIELD#\": \"WCS-3614\",\n    \"REGIONAL DATA\": {\n      \"FOR FRESHWATER ONLY\": {\n        \"CONTINENT\": \"N. Am.\",\n        \"PRINCIPAL DRAINAGE BASIN\": \"Chesapeake Bay\",\n        \"RIVER SUBBASINS\": \"Potomac\",\n        \"COUNTRY\": \"USA\",\n        \"ST/PROV.\": \"VA - MD\"\n      },\n      \"FOR MARINE ONLY\": {\n        \"OCEAN\": \"\",\n        \"OCEAN SUBBASIN\": \"\",\n        \"COUNTRY (if coastal collection)\": \"\",\n        \"ST/PROV.\": \"\"\n      }\n    },\n    \"LOCALE DATA/COLLECTING INFORMATION\": {\n      \"COUNTIES\": \"Prince William - Charles\",\n      \"MAP SHEET\": \"\",\n      \"LOCALITY\": \"Potomac R., W shore B'lo (Blow) Dutton PH\",\n      \"LAT\": \"38.535, 38.543\",\n      \"LONG\": \"77.122, 77.257\",\n      \"OTHER COORDS\": \"\",\n      \"VESSEL\": \"\",\n      \"CRUISE\": \"\",\n      \"STA#\": \"\",\n      \"PERMIT\": \"VDGIF\",\n      \"COLLECTORS\": \"See 3010\",\n      \"METHOD CAPTURE\": \"EFBoat & 12' Seine\",\n      \"DEPTH CAPTURE\": \"to 2 m\",\n      \"PRESERVATIVE\": \"\"\n    },\n    \"ECOLOGICAL DATA\": {\n      \"GENERAL HABITAT\": \"Large tidal river\",\n      \"ELEV.\": \"1 ft min\",\n      \"STREAM WIDTH\": \"\",\n      \"MAX DEPTH\": \"2\",\n      \"CURRENT\": \"Slight\",\n      \"COLOR\": \"Brownish\",\n      \"TEMP\": \"\",\n      \"SALINITY\": \"5.1\u2030 in river 20 mm off Potomac\",\n      \"TIDE\": \"\",\n      \"BOTTOM TYPE\": \"Sand-silt\",\n      \"VEGETATION\": \"Plankton blooms, Hydrilla, Some SAV\",\n      \"SHORE TYPE\": \"\"\n    },\n    \"ACC.#\": \"12926\",\n    \"ADD. NOTES/SPECIES LISTS ETC. on back\": \"Lots of SAV Beds, Bitter 24 S in reports to A Hunt late 2000s\"\n  },\n  \"TRANSCRIPTION NOTES\": \"Some numbers were a bit difficult to decipher due to inconsistent handwriting. The locality 'B'lo Dutton PH' is interpreted as 'below Dutton PH' from context although the handwriting was unclear. The salinity '5.1\u2030 in river...' seemed to have a continuation which may interpret as a measurement location.\"\n}\n```"
+            },
+            "finish_details": {
+                "type": "stop",
+                "stop": "<|fim_suffix|>"
+            },
+            "index": 0
+        }
+    ]
+}

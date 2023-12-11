@@ -1,0 +1,24 @@
+{
+    "id": "chatcmpl-8UL3NLs6JLKgPoewc1mNuWCzNEITv",
+    "object": "chat.completion",
+    "created": 1702241461,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 1789,
+        "completion_tokens": 657,
+        "total_tokens": 2446
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"NORTH CAROLINA STATE MUSEUM OF NATURAL SCIENCES AQUATIC/MARINE FIELD DATA SHEET\": {\n    \"DATE\": \"25 Jun 84\",\n    \"TIME\": \"13:50 - 14:30\",\n    \"FIELD#\": \"WCS - 3068\",\n    \"REGIONAL DATA\": {\n      \"FOR FRESHWATER ONLY\": {\n        \"CONTINENT\": \"N. Am.\",\n        \"PRINCIPAL DRAINAGE BASIN\": \"Chesapeake\",\n        \"RIVER SUBBASINS\": \"headwaters of Rapidan\",\n        \"COUNTRY\": \"USA\",\n        \"ST/PROV.\": \"VA\"\n      },\n      \"FOR MARINE ONLY\": {\n        \"OCEAN\": \"\",\n        \"OCEAN SUBBASIN\": \"\",\n        \"COUNTRY (if coastal collection)\": \"\",\n        \"ST/PROV.\": \"\"\n      }\n    },\n    \"LOCALE DATA/COLLECTING INFORMATION\": {\n      \"COUNTIES\": \"Orange\",\n      \"MAP SHEET\": \"Zoar Rd (5G-601)\",\n      \"LOCALITY\": \"Mine Run off Racoon Ford (2.7 mi W of Zoar Bridge)\",\n      \"LAT\": \"38.3098 N\",\n      \"LONG\": \"77.8537 W\",\n      \"OTHER COORDS\": \"\",\n      \"VESSEL\": \"\",\n      \"CRUISE\": \"\",\n      \"STA#\": \"\",\n      \"PERMIT\": \"\",\n      \"COLLECTORS\": \"see 3059\",\n      \"METHOD CAPTURE\": \"seine\",\n      \"DEPTH CAPTURE\": \"0 to 1.5\",\n      \"PRESERVATIVE\": \"formal\"\n    },\n    \"ECOLOGICAL DATA\": {\n      \"GENERAL HABITAT\": \"Large qty Piedmont Creek\",\n      \"ELEV.\": \"202 - 207\",\n      \"STREAM WIDTH\": \"5 to 15\",\n      \"MAX DEPTH\": \"1 ft\",\n      \"CURRENT\": \"sl(slow)\",\n      \"COLOR\": \"light\",\n      \"TEMP\": \"\",\n      \"SALINITY\": \"\",\n      \"TIDE\": \"\",\n      \"BOTTOM TYPE\": \"sand/gravel, rubble, some boulders\",\n      \"VEGETATION\": \"\",\n      \"SHORE TYPE\": \"wooded\"\n    },\n    \"ACC.#\": \"1344\",\n    \"ADD. NOTES/SPECIES LISTS ETC. on back\": \"see back \u2192\"\n  },\n  \"TRANSCRIPTION NOTES\": \"The handwriting was challenging to decipher at times, particularly with the abbreviations used and some unclear lettering. 'Qty' in the 'GENERAL HABITAT' could be an abbreviation for 'quality,' 'quantity,' or another similar term. The map sheet has a number with uncertain characters '5G-601' (the middle character is ambiguous). The abbreviation 'sl' for stream current could stand for 'slight' or 'slow' and was determined based on the context. The entry 'see 3059' in the 'COLLECTORS' section appears to reference another data sheet or entry number.\"\n}\n```"
+            },
+            "finish_details": {
+                "type": "stop",
+                "stop": "<|fim_suffix|>"
+            },
+            "index": 0
+        }
+    ]
+}
