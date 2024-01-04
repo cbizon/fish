@@ -1,0 +1,24 @@
+{
+    "id": "chatcmpl-8UhhwFNZpRpsghMrae8yIpeUHP2iW",
+    "object": "chat.completion",
+    "created": 1702328544,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 2166,
+        "completion_tokens": 591,
+        "total_tokens": 2757
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"NORTH CAROLINA STATE MUSEUM OF NATURAL SCIENCES AQUATIC/MARINE FIELD DATA SHEET\": {\n    \"DATE\": \"23 Nov 2011\",\n    \"TIME\": \"1310-1450\",\n    \"FIELD#\": \"WCS-2028\",\n    \"REGIONAL DATA\": {\n      \"FOR FRESHWATER ONLY\": {\n        \"CONTINENT\": \"N. Am\",\n        \"PRINCIPAL DRAINAGE BASIN\": \"Miss\",\n        \"RIVER SUBBASINS\": \"Clinch\",\n        \"COUNTRY\": \"USA\",\n        \"ST/PROV.\": \"TN\"\n      },\n      \"FOR MARINE ONLY\": {\n        \"OCEAN\": \"\",\n        \"OCEAN SUBBASIN\": \"\",\n        \"COUNTRY (if coastal collection)\": \"\",\n        \"ST/PROV.\": \"\"\n      }\n    },\n    \"LOCALE DATA/COLLECTING INFORMATION\": {\n      \"COUNTIES\": \"Hancock\",\n      \"MAP SHEET\": \"\",\n      \"LOCALITY\": \"Clinch R. at Frost Ford by Tennsic Rdtrs bd (0.1 mi above Panther Cr.) 3.6 mi E of Sneedville\",\n      \"LAT\": \"36.5302 N\",\n      \"LONG\": \"83.1509 W\",\n      \"OTHER COORDS\": \"\",\n      \"VESSEL\": \"\",\n      \"CRUISE\": \"\",\n      \"STA#\": \"\",\n      \"PERMIT\": \"TWRA\",\n      \"COLLECTORS\": \"See 2967\",\n      \"METHOD CAPTURE\": \"bp. Seine 12' Seine\",\n      \"DEPTH CAPTURE\": \"\",\n      \"PRESERVATIVE\": \"Form. etc.\"\n    },\n    \"ECOLOGICAL DATA\": {\n      \"GENERAL HABITAT\": \"med. Riffy valley river\",\n      \"ELEV.\": \"1200m\",\n      \"STREAM WIDTH\": \"50m\",\n      \"MAX DEPTH\": \"2m\",\n      \"CURRENT\": \"\",\n      \"COLOR\": \"clear\",\n      \"TEMP\": \"\",\n      \"SALINITY\": \"\",\n      \"TIDE\": \"\",\n      \"BOTTOM TYPE\": \"gravel/sand, large rocks/boulders\",\n      \"VEGETATION\": \"bedrgt.\",\n      \"SHORE TYPE\": \"fields & riparian trees etc.\"\n    },\n    \"ACC.#\": \"12646\",\n    \"ADD. NOTES/SPECIES LISTS ETC. on back\": \"+ Frost Ford is a local name, not found on most maps\"\n  },\n  \"TRANSCRIPTION NOTES\": \"The salinity, temperature, and current fields were left blank. Method Capture seems to be 'bp. Seine' or 'bp' could possibly refer to backpack, followed by '12' Seine'.\"\n}\n```"
+            },
+            "finish_details": {
+                "type": "stop",
+                "stop": "<|fim_suffix|>"
+            },
+            "index": 0
+        }
+    ]
+}

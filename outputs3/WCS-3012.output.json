@@ -1,0 +1,55 @@
+{
+  "NORTH CAROLINA STATE MUSEUM OF NATURAL SCIENCES AQUATIC/MARINE FIELD DATA SHEET": {
+    "DATE": "4 Sept 2012",
+    "TIME": "0730-1130",
+    "FIELD#": "WCS-3012",
+    "REGIONAL DATA": {
+      "FOR FRESHWATER ONLY": {
+        "CONTINENT": "N. Am",
+        "PRINCIPAL DRAINAGE BASIN": "Chesapeake Bay",
+        "RIVER SUBBASINS": "Potomac",
+        "COUNTRY": "USA",
+        "ST/PROV.": "VA"
+      },
+      "FOR MARINE ONLY": {
+        "OCEAN": "",
+        "OCEAN SUBBASIN": "",
+        "COUNTRY (if coastal collection)": "",
+        "ST/PROV.": ""
+      }
+    },
+    "LOCALE DATA/COLLECTING INFORMATION": {
+      "COUNTIES": "Fairfax",
+      "MAP SHEET": "",
+      "LOCALITY": "Pohick Bay; lower station Kane Co. between Potomac R. and Belmont Bay; 2.5-2.7 miles ESE of Woodbridge",
+      "LAT": "38.66000 - 38.63121",
+      "LONG": "77.18439 - 77.21278",
+      "OTHER COORDS": "",
+      "VESSEL": "",
+      "CRUISE": "",
+      "STA#": "",
+      "PERMIT": "VDGIF",
+      "COLLECTORS": "See. 3610",
+      "METHOD CAPTURE": "EF boat",
+      "DEPTH CAPTURE": "to 2m",
+      "PRESERVATIVE": ""
+    },
+    "ECOLOGICAL DATA": {
+      "GENERAL HABITAT": "Tidal creek & adjacent emergent",
+      "ELEV.": "",
+      "STREAM WIDTH": "",
+      "MAX DEPTH": "1-3 m",
+      "CURRENT": "slg",
+      "COLOR": "Vry Clear",
+      "TEMP": "",
+      "SALINITY": "low",
+      "TIDE": "",
+      "BOTTOM TYPE": "Silt/sand",
+      "VEGETATION": "abundant Hyrda, some Everything else",
+      "SHORE TYPE": "Wood"
+    },
+    "ACC.#": "19276",
+    "ADD. NOTES/SPECIES LISTS ETC. on back": "See back ->"
+  },
+  "TRANSCRIPTION NOTES": "Some handwriting was difficult to decipher. The 'MAP SHEET' value was left blank due to illegibility. The 'TIME' noted on the image was interpreted as '0730-1130', though the handwriting was challenging to interpret. The latitude and longitude values required close inspection to discern."
+}

@@ -1,0 +1,24 @@
+{
+    "id": "chatcmpl-8UhhfEx4kKi8MT6PKALBnnzyagkCQ",
+    "object": "chat.completion",
+    "created": 1702328527,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 2166,
+        "completion_tokens": 553,
+        "total_tokens": 2719
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"NORTH CAROLINA STATE MUSEUM OF NATURAL SCIENCES AQUATIC/MARINE FIELD DATA SHEET\": {\n    \"DATE\": \"3 Sep 2013\",\n    \"TIME\": \"0900-1530\",\n    \"FIELD#\": \"WCS-8010\",\n    \"REGIONAL DATA\": {\n      \"FOR FRESHWATER ONLY\": {\n        \"CONTINENT\": \"N. Am\",\n        \"PRINCIPAL DRAINAGE BASIN\": \"Chesapeake Bay\",\n        \"RIVER SUBBASINS\": \"Potomac\",\n        \"COUNTRY\": \"USA\",\n        \"ST/PROV.\": \"VA\"\n      },\n      \"FOR MARINE ONLY\": {\n        \"OCEAN\": \"\",\n        \"OCEAN SUBBASIN\": \"\",\n        \"COUNTRY (if coastal collection)\": \"\",\n        \"ST/PROV.\": \"\"\n      }\n    },\n    \"LOCALE DATA/COLLECTING INFORMATION\": {\n      \"COUNTIES\": \"Stafford\",\n      \"MAP SHEET\": \"\",\n      \"LOCALITY\": \"Potomac Creek, lower tidal reach, 6.8 air mi ENE of Fredericksburg\",\n      \"LAT\": \"38.34777 N, 38.38661 N\",\n      \"LONG\": \"77.23894 W, 77.23782 W\",\n      \"OTHER COORDS\": \"\",\n      \"VESSEL\": \"\",\n      \"CRUISE\": \"\",\n      \"STA#\": \"\",\n      \"PERMIT\": \"NP06/F\",\n      \"COLLECTORS\": \"WC Starnes, 6m Hogue, MG Gatton, J. Odenrich\",\n      \"METHOD CAPTURE\": \"EFB\",\n      \"DEPTH CAPTURE\": \"to 2 m\",\n      \"PRESERVATIVE\": \"Formal\"\n    },\n    \"ECOLOGICAL DATA\": {\n      \"GENERAL HABITAT\": \"large tidal creek\",\n      \"ELEV.\": \"\",\n      \"STREAM WIDTH\": \"5 m\",\n      \"MAX DEPTH\": \"3 m\",\n      \"CURRENT\": \"moderate\",\n      \"COLOR\": \"\",\n      \"TEMP\": \"\",\n      \"SALINITY\": \"slight\",\n      \"TIDE\": \"\",\n      \"BOTTOM TYPE\": \"sandy silt\",\n      \"VEGETATION\": \"heavy Hydrilla, 5 m wtr forti\",\n      \"SHORE TYPE\": \"forest flats, residential\"\n    },\n    \"ACC.#\": \"12226\",\n    \"ADD. NOTES/SPECIES LISTS ETC. on back\": \"\"\n  },\n  \"TRANSCRIPTION NOTES\": \"\"\n}\n```"
+            },
+            "finish_details": {
+                "type": "stop",
+                "stop": "<|fim_suffix|>"
+            },
+            "index": 0
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+  "NORTH CAROLINA STATE MUSEUM OF NATURAL SCIENCES AQUATIC/MARINE FIELD DATA SHEET": {
+    "DATE": "3 Sep 2013",
+    "TIME": "0900-1530",
+    "FIELD#": "WCS-8010",
+    "REGIONAL DATA": {
+      "FOR FRESHWATER ONLY": {
+        "CONTINENT": "N. Am",
+        "PRINCIPAL DRAINAGE BASIN": "Chesapeake Bay",
+        "RIVER SUBBASINS": "Potomac",
+        "COUNTRY": "USA",
+        "ST/PROV.": "VA"
+      },
+      "FOR MARINE ONLY": {
+        "OCEAN": "",
+        "OCEAN SUBBASIN": "",
+        "COUNTRY (if coastal collection)": "",
+        "ST/PROV.": ""
+      }
+    },
+    "LOCALE DATA/COLLECTING INFORMATION": {
+      "COUNTIES": "Stafford",
+      "MAP SHEET": "",
+      "LOCALITY": "Potomac Creek, lower tidal reach, 6.8 air mi ENE of Fredericksburg",
+      "LAT": "38.34777 N, 38.38661 N",
+      "LONG": "77.23894 W, 77.23782 W",
+      "OTHER COORDS": "",
+      "VESSEL": "",
+      "CRUISE": "",
+      "STA#": "",
+      "PERMIT": "NP06/F",
+      "COLLECTORS": "WC Starnes, 6m Hogue, MG Gatton, J. Odenrich",
+      "METHOD CAPTURE": "EFB",
+      "DEPTH CAPTURE": "to 2 m",
+      "PRESERVATIVE": "Formal"
+    },
+    "ECOLOGICAL DATA": {
+      "GENERAL HABITAT": "large tidal creek",
+      "ELEV.": "",
+      "STREAM WIDTH": "5 m",
+      "MAX DEPTH": "3 m",
+      "CURRENT": "moderate",
+      "COLOR": "",
+      "TEMP": "",
+      "SALINITY": "slight",
+      "TIDE": "",
+      "BOTTOM TYPE": "sandy silt",
+      "VEGETATION": "heavy Hydrilla, 5 m wtr forti",
+      "SHORE TYPE": "forest flats, residential"
+    },
+    "ACC.#": "12226",
+    "ADD. NOTES/SPECIES LISTS ETC. on back": ""
+  },
+  "TRANSCRIPTION NOTES": ""
+}

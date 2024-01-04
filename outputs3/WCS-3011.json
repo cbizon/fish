@@ -1,0 +1,24 @@
+{
+    "id": "chatcmpl-8UhhLDBqwhcMwx9SSdw5goh9FvnwJ",
+    "object": "chat.completion",
+    "created": 1702328507,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 2166,
+        "completion_tokens": 690,
+        "total_tokens": 2856
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"NORTH CAROLINA STATE MUSEUM OF NATURAL SCIENCES AQUATIC/MARINE FIELD DATA SHEET\": {\n    \"DATE\": \"3 Sep 2013\", \n    \"TIME\": \"1600-1700\", \n    \"FIELD#\": \"WCS-3011\", \n    \"REGIONAL DATA\": { \n      \"FOR FRESHWATER ONLY\": { \n        \"CONTINENT\": \"N. Am.\", \n        \"PRINCIPAL DRAINAGE BASIN\": \"Chesapeake Bay\",\n        \"RIVER SUBBASINS\": \"Potomac\", \n        \"COUNTRY\": \"USA\", \n        \"ST/PROV.\": \"VA\" }, \n      \"FOR MARINE ONLY\": { \n        \"OCEAN\": \"\", \n        \"OCEAN SUBBASIN\": \"\", \n        \"COUNTRY (if coastal collection)\": \"\", \n        \"ST/PROV.\": \"\" \n      } \n    }, \n    \"LOCALE DATA/COLLECTING INFORMATION\": { \n      \"COUNTIES\": \"Stafford\",\n      \"MAP SHEET\": \"\", \n      \"LOCALITY\": \"Aquia Creek lower third reach from Rte 1 to wide. ENE of Fredericksburg\", \n      \"LAT\": \"38.37784, 38.36549\", \n      \"LONG\": \"-77.37357, -77.37278\", \n      \"OTHER COORDS\": \"\", \n      \"VESSEL\": \"\", \n      \"CRUISE\": \"\", \n      \"STA#\": \"\", \n      \"PERMIT\": \"VGP16\", \n      \"COLLECTORS\": \"Sec 36\", \n      \"METHOD CAPTURE\": \"EF boat\", \n      \"DEPTH CAPTURE\": \"2 m+\", \n      \"PRESERVATIVE\": \"\" \n    }, \n    \"ECOLOGICAL DATA\": { \n      \"GENERAL HABITAT\": \"upper tidal reach of large size river\", \n      \"ELEV.\": \"\", \n      \"STREAM WIDTH\": \"30m+\", \n      \"MAX DEPTH\": \"2m+ ?\", \n      \"CURRENT\": \"sluggish\", \n      \"COLOR\": \"light tannic\", \n      \"TEMP\": \"\", \n      \"SALINITY\": \"low\", \n      \"TIDE\": \"high\", \n      \"BOTTOM TYPE\": \"mud/sand/silt\", \n      \"VEGETATION\": \"Hydrilla & other\", \n      \"SHORE TYPE\": \"woody\" \n    }, \n    \"ACC.#\": \"12/216\", \n    \"ADD. NOTES/SPECIES LISTS ETC. on back\": \"photos 6-13 waypoints 22 & 23\" \n  }, \n  \"TRANSCRIPTION NOTES\": \"The 'DEPTH CAPTURE' value was followed by a \u2018+\u2019 symbol, suggesting the depth may exceed the indicated value. The 'MAX DEPTH' value also included a \u2018+\u2019 and a \u2018?\u2019, indicating uncertainty about the exact maximum depth. Several form entries such as \u2018MAP SHEET,\u2019 \u2018VESSEL,\u2019 \u2018CRUISE,\u2019 and \u2018STA#\u2019 were left blank. Additionally, the 'ELEV.' and 'TEMP.' fields were not filled out on the form.\"\n}\n```"
+            },
+            "finish_details": {
+                "type": "stop",
+                "stop": "<|fim_suffix|>"
+            },
+            "index": 0
+        }
+    ]
+}

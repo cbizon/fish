@@ -1,0 +1,55 @@
+{
+  "NORTH CAROLINA STATE MUSEUM OF NATURAL SCIENCES AQUATIC/MARINE FIELD DATA SHEET": {
+    "DATE": "25 Jun 2014",
+    "TIME": "1350-1430",
+    "FIELD#": "WCS-3068",
+    "REGIONAL DATA": {
+      "FOR FRESHWATER ONLY": {
+        "CONTINENT": "N. Amer.",
+        "PRINCIPAL DRAINAGE BASIN": "Chesapeake",
+        "RIVER SUBBASINS": "Roanoke/Chowan",
+        "COUNTRY": "USA",
+        "ST/PROV.": "VA"
+      },
+      "FOR MARINE ONLY": {
+        "OCEAN": "",
+        "OCEAN SUBBASIN": "",
+        "COUNTRY (if coastal collection)": "",
+        "ST/PROV.": ""
+      }
+    },
+    "LOCALE DATA/COLLECTING INFORMATION": {
+      "COUNTIES": "Orange",
+      "MAP SHEET": "Newport Zoom Rd (SR-611)",
+      "LOCALITY": "Mine Run at Racoon Ford",
+      "LAT": "38.29798 N - 38.29798 N",
+      "LONG": "77.85777 W - 77.85777 W",
+      "OTHER COORDS": "",
+      "VESSEL": "",
+      "CRUISE": "",
+      "STA#": "",
+      "PERMIT": "",
+      "COLLECTORS": "Sue 3059",
+      "METHOD CAPTURE": "Seine",
+      "DEPTH CAPTURE": "0.5",
+      "PRESERVATIVE": "Formal"
+    },
+    "ECOLOGICAL DATA": {
+      "GENERAL HABITAT": "Large upl piedmont creek",
+      "ELEV.": "72 M",
+      "STREAM WIDTH": "70' 15'",
+      "MAX DEPTH": "0.5 M",
+      "CURRENT": "Slgt",
+      "COLOR": "Tea",
+      "TEMP": "",
+      "SALINITY": "",
+      "TIDE": "",
+      "BOTTOM TYPE": "Sand/gravel, rubble & some boulders",
+      "VEGETATION": "",
+      "SHORE TYPE": "Woods"
+    },
+    "ACC.#": "13144",
+    "ADD. NOTES/SPECIES LISTS ETC. on back": ""
+  },
+  "TRANSCRIPTION NOTES": "Some text was difficult to decipher; 'Slgt' abbreviation for CURRENT assumed to mean 'Slight'. The LOCALITY value 'Mine Runatte Racoon Ford' was interpreted as 'Mine Run at Racoon Ford' based on context. LAT and LONG values are duplicated, suggesting they may indicate a single point rather than a range. ELEV. and STREAM WIDTH were interpreted from context, as handwriting was challenging to read. GENERAL HABITAT value 'Large upl piedmont creek' assumed from context and handwriting. ADD. NOTES/SPECIES LISTS ETC. field is indicated to continue on back, detail not provided in transcription."
+}

@@ -1,0 +1,24 @@
+{
+    "id": "chatcmpl-8UhgTEzymgTPK566HHGBUs4k4PiTx",
+    "object": "chat.completion",
+    "created": 1702328453,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 2166,
+        "completion_tokens": 612,
+        "total_tokens": 2778
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"NORTH CAROLINA STATE MUSEUM OF NATURAL SCIENCES AQUATIC/MARINE FIELD DATA SHEET\": {\n    \"DATE\": \"4 Sep 2013\",\n    \"TIME\": \"1235-1345 1415-1515\",\n    \"FIELD#\": \"WCS-3614\",\n    \"REGIONAL DATA\": {\n      \"FOR FRESHWATER ONLY\": {\n        \"CONTINENT\": \"N. Am.\",\n        \"PRINCIPAL DRAINAGE BASIN\": \"Chesapeake Bay\",\n        \"RIVER SUBBASINS\": \"Potomac\",\n        \"COUNTRY\": \"USA\",\n        \"ST/PROV.\": \"VA - MD\"\n      },\n      \"FOR MARINE ONLY\": {\n        \"OCEAN\": \"\",\n        \"OCEAN SUBBASIN\": \"\",\n        \"COUNTRY (if coastal collection)\": \"\",\n        \"ST/PROV.\": \"\"\n      }\n    },\n    \"LOCALE DATA/COLLECTING INFORMATION\": {\n      \"COUNTIES\": \"Prince William Charles\",\n      \"MAP SHEET\": \"\",\n      \"LOCALITY\": \"Potomac R., W shore opposite Purse St. Park upriver crossing 3.1 mi air ESE Quantico\",\n      \"LAT\": \"38.35010 -38.57903\",\n      \"LONG\": \"-77.21222 -77.25958\",\n      \"OTHER COORDS\": \"\",\n      \"VESSEL\": \"\",\n      \"CRUISE\": \"\",\n      \"STA#\": \"\",\n      \"PERMIT\": \"VDGIF\",\n      \"COLLECTORS\": \"See 3010\",\n      \"METHOD CAPTURE\": \"E/F Boat / 12' Seine\",\n      \"DEPTH CAPTURE\": \"to 2m\",\n      \"PRESERVATIVE\": \"\"\n    },\n    \"ECOLOGICAL DATA\": {\n      \"GENERAL HABITAT\": \"Large tidal river\",\n      \"ELEV.\": \"\",\n      \"STREAM WIDTH\": \"8 m max\",\n      \"MAX DEPTH\": \"2\",\n      \"CURRENT\": \"sluggish\",\n      \"COLOR\": \"browned\",\n      \"TEMP\": \"\",\n      \"SALINITY\": \"slight\",\n      \"TIDE\": \"\",\n      \"BOTTOM TYPE\": \"Sand/silt\",\n      \"VEGETATION\": \"predominantly urgrass & partially submerged hydrophyll\",\n      \"SHORE TYPE\": \"Some silt\"\n    },\n    \"ACC.#\": \"12926\",\n    \"ADD. NOTES/SPECIES LISTS ETC. on back\": \"Area of SAV Beds BITED 2013 in report to A Huntley et al 2009 USGS\"\n  },\n  \"TRANSCRIPTION NOTES\": \"The handwriting was somewhat difficult to decipher in places, especially the localities section and ecological data section. Some words were unclear, but the transcription represents the best interpretation of the words as seen.\"\n}\n```"
+            },
+            "finish_details": {
+                "type": "stop",
+                "stop": "<|fim_suffix|>"
+            },
+            "index": 0
+        }
+    ]
+}

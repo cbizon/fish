@@ -1,0 +1,55 @@
+{
+  "NORTH CAROLINA STATE MUSEUM OF NATURAL SCIENCES AQUATIC/MARINE FIELD DATA SHEET": {
+    "DATE": "9 Nov 2011",
+    "TIME": "1230-1800",
+    "FIELD#": "WCS-2969",
+    "REGIONAL DATA": {
+      "FOR FRESHWATER ONLY": {
+        "CONTINENT": "N. Am.",
+        "PRINCIPAL DRAINAGE BASIN": "Mississippi/Tennessee",
+        "RIVER SUBBASINS": "",
+        "COUNTRY": "USA",
+        "ST/PROV.": "TN"
+      },
+      "FOR MARINE ONLY": {
+        "OCEAN": "",
+        "OCEAN SUBBASIN": "",
+        "COUNTRY (if coastal collection)": "",
+        "ST/PROV.": ""
+      }
+    },
+    "LOCALE DATA/COLLECTING INFORMATION": {
+      "COUNTIES": "Blount",
+      "MAP SHEET": "",
+      "LOCALITY": "Little [River] above 38-150 m below US Hwy 321 on Maryville",
+      "LAT": "35.73892",
+      "LONG": "-83.98732",
+      "OTHER COORDS": "",
+      "VESSEL": "",
+      "CRUISE": "",
+      "STA#": "",
+      "PERMIT": "TWRA 1189",
+      "COLLECTORS": "See 2962",
+      "METHOD CAPTURE": "Backpack shocker",
+      "DEPTH CAPTURE": "0.5 m",
+      "PRESERVATIVE": ""
+    },
+    "ECOLOGICAL DATA": {
+      "GENERAL HABITAT": "Small upland river",
+      "ELEV.": "25-30 m",
+      "STREAM WIDTH": "2 m",
+      "MAX DEPTH": "1 m",
+      "CURRENT": "Strong",
+      "COLOR": "Muddy",
+      "TEMP": "",
+      "SALINITY": "",
+      "TIDE": "",
+      "BOTTOM TYPE": "Small rubble/cobble",
+      "VEGETATION": "",
+      "SHORE TYPE": "Rip-rap/bankfull"
+    },
+    "ACC.#": "12062",
+    "ADD. NOTES/SPECIES LISTS ETC. on back": "See back"
+  },
+  "TRANSCRIPTION NOTES": "The handwriting in the 'LOCALITY' field was difficult to decipher but was transcribed based on context. The entry for 'CURRENT' was a bit obscured but interpreted as 'Strong' based on common terminology. The note at the bottom regarding the difficulty of collecting is included for completeness."
+}

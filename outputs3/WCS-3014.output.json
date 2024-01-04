@@ -1,0 +1,55 @@
+{
+  "NORTH CAROLINA STATE MUSEUM OF NATURAL SCIENCES AQUATIC/MARINE FIELD DATA SHEET": {
+    "DATE": "4 Sep 2013",
+    "TIME": "1235-1345 1415-1515",
+    "FIELD#": "WCS-3614",
+    "REGIONAL DATA": {
+      "FOR FRESHWATER ONLY": {
+        "CONTINENT": "N. Am.",
+        "PRINCIPAL DRAINAGE BASIN": "Chesapeake Bay",
+        "RIVER SUBBASINS": "Potomac",
+        "COUNTRY": "USA",
+        "ST/PROV.": "VA - MD"
+      },
+      "FOR MARINE ONLY": {
+        "OCEAN": "",
+        "OCEAN SUBBASIN": "",
+        "COUNTRY (if coastal collection)": "",
+        "ST/PROV.": ""
+      }
+    },
+    "LOCALE DATA/COLLECTING INFORMATION": {
+      "COUNTIES": "Prince William Charles",
+      "MAP SHEET": "",
+      "LOCALITY": "Potomac R., W shore opposite Purse St. Park upriver crossing 3.1 mi air ESE Quantico",
+      "LAT": "38.35010 -38.57903",
+      "LONG": "-77.21222 -77.25958",
+      "OTHER COORDS": "",
+      "VESSEL": "",
+      "CRUISE": "",
+      "STA#": "",
+      "PERMIT": "VDGIF",
+      "COLLECTORS": "See 3010",
+      "METHOD CAPTURE": "E/F Boat / 12' Seine",
+      "DEPTH CAPTURE": "to 2m",
+      "PRESERVATIVE": ""
+    },
+    "ECOLOGICAL DATA": {
+      "GENERAL HABITAT": "Large tidal river",
+      "ELEV.": "",
+      "STREAM WIDTH": "8 m max",
+      "MAX DEPTH": "2",
+      "CURRENT": "sluggish",
+      "COLOR": "browned",
+      "TEMP": "",
+      "SALINITY": "slight",
+      "TIDE": "",
+      "BOTTOM TYPE": "Sand/silt",
+      "VEGETATION": "predominantly urgrass & partially submerged hydrophyll",
+      "SHORE TYPE": "Some silt"
+    },
+    "ACC.#": "12926",
+    "ADD. NOTES/SPECIES LISTS ETC. on back": "Area of SAV Beds BITED 2013 in report to A Huntley et al 2009 USGS"
+  },
+  "TRANSCRIPTION NOTES": "The handwriting was somewhat difficult to decipher in places, especially the localities section and ecological data section. Some words were unclear, but the transcription represents the best interpretation of the words as seen."
+}

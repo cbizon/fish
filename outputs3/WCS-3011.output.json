@@ -1,0 +1,54 @@
+{
+  "NORTH CAROLINA STATE MUSEUM OF NATURAL SCIENCES AQUATIC/MARINE FIELD DATA SHEET": {
+    "DATE": "3 Sep 2013", 
+    "TIME": "1600-1700", 
+    "FIELD#": "WCS-3011", 
+    "REGIONAL DATA": { 
+      "FOR FRESHWATER ONLY": { 
+        "CONTINENT": "N. Am.", 
+        "PRINCIPAL DRAINAGE BASIN": "Chesapeake Bay",
+        "RIVER SUBBASINS": "Potomac", 
+        "COUNTRY": "USA", 
+        "ST/PROV.": "VA" }, 
+      "FOR MARINE ONLY": { 
+        "OCEAN": "", 
+        "OCEAN SUBBASIN": "", 
+        "COUNTRY (if coastal collection)": "", 
+        "ST/PROV.": "" 
+      } 
+    }, 
+    "LOCALE DATA/COLLECTING INFORMATION": { 
+      "COUNTIES": "Stafford",
+      "MAP SHEET": "", 
+      "LOCALITY": "Aquia Creek lower third reach from Rte 1 to wide. ENE of Fredericksburg", 
+      "LAT": "38.37784, 38.36549", 
+      "LONG": "-77.37357, -77.37278", 
+      "OTHER COORDS": "", 
+      "VESSEL": "", 
+      "CRUISE": "", 
+      "STA#": "", 
+      "PERMIT": "VGP16", 
+      "COLLECTORS": "Sec 36", 
+      "METHOD CAPTURE": "EF boat", 
+      "DEPTH CAPTURE": "2 m+", 
+      "PRESERVATIVE": "" 
+    }, 
+    "ECOLOGICAL DATA": { 
+      "GENERAL HABITAT": "upper tidal reach of large size river", 
+      "ELEV.": "", 
+      "STREAM WIDTH": "30m+", 
+      "MAX DEPTH": "2m+ ?", 
+      "CURRENT": "sluggish", 
+      "COLOR": "light tannic", 
+      "TEMP": "", 
+      "SALINITY": "low", 
+      "TIDE": "high", 
+      "BOTTOM TYPE": "mud/sand/silt", 
+      "VEGETATION": "Hydrilla & other", 
+      "SHORE TYPE": "woody" 
+    }, 
+    "ACC.#": "12/216", 
+    "ADD. NOTES/SPECIES LISTS ETC. on back": "photos 6-13 waypoints 22 & 23" 
+  }, 
+  "TRANSCRIPTION NOTES": "The 'DEPTH CAPTURE' value was followed by a ‘+’ symbol, suggesting the depth may exceed the indicated value. The 'MAX DEPTH' value also included a ‘+’ and a ‘?’, indicating uncertainty about the exact maximum depth. Several form entries such as ‘MAP SHEET,’ ‘VESSEL,’ ‘CRUISE,’ and ‘STA#’ were left blank. Additionally, the 'ELEV.' and 'TEMP.' fields were not filled out on the form."
+}

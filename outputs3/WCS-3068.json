@@ -1,0 +1,24 @@
+{
+    "id": "chatcmpl-8UhfVNiKf6UH9n530305o8E4Mv96m",
+    "object": "chat.completion",
+    "created": 1702328393,
+    "model": "gpt-4-1106-vision-preview",
+    "usage": {
+        "prompt_tokens": 2166,
+        "completion_tokens": 659,
+        "total_tokens": 2825
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "```json\n{\n  \"NORTH CAROLINA STATE MUSEUM OF NATURAL SCIENCES AQUATIC/MARINE FIELD DATA SHEET\": {\n    \"DATE\": \"25 Jun 2014\",\n    \"TIME\": \"1350-1430\",\n    \"FIELD#\": \"WCS-3068\",\n    \"REGIONAL DATA\": {\n      \"FOR FRESHWATER ONLY\": {\n        \"CONTINENT\": \"N. Amer.\",\n        \"PRINCIPAL DRAINAGE BASIN\": \"Chesapeake\",\n        \"RIVER SUBBASINS\": \"Roanoke/Chowan\",\n        \"COUNTRY\": \"USA\",\n        \"ST/PROV.\": \"VA\"\n      },\n      \"FOR MARINE ONLY\": {\n        \"OCEAN\": \"\",\n        \"OCEAN SUBBASIN\": \"\",\n        \"COUNTRY (if coastal collection)\": \"\",\n        \"ST/PROV.\": \"\"\n      }\n    },\n    \"LOCALE DATA/COLLECTING INFORMATION\": {\n      \"COUNTIES\": \"Orange\",\n      \"MAP SHEET\": \"Newport Zoom Rd (SR-611)\",\n      \"LOCALITY\": \"Mine Run at Racoon Ford\",\n      \"LAT\": \"38.29798 N - 38.29798 N\",\n      \"LONG\": \"77.85777 W - 77.85777 W\",\n      \"OTHER COORDS\": \"\",\n      \"VESSEL\": \"\",\n      \"CRUISE\": \"\",\n      \"STA#\": \"\",\n      \"PERMIT\": \"\",\n      \"COLLECTORS\": \"Sue 3059\",\n      \"METHOD CAPTURE\": \"Seine\",\n      \"DEPTH CAPTURE\": \"0.5\",\n      \"PRESERVATIVE\": \"Formal\"\n    },\n    \"ECOLOGICAL DATA\": {\n      \"GENERAL HABITAT\": \"Large upl piedmont creek\",\n      \"ELEV.\": \"72 M\",\n      \"STREAM WIDTH\": \"70' 15'\",\n      \"MAX DEPTH\": \"0.5 M\",\n      \"CURRENT\": \"Slgt\",\n      \"COLOR\": \"Tea\",\n      \"TEMP\": \"\",\n      \"SALINITY\": \"\",\n      \"TIDE\": \"\",\n      \"BOTTOM TYPE\": \"Sand/gravel, rubble & some boulders\",\n      \"VEGETATION\": \"\",\n      \"SHORE TYPE\": \"Woods\"\n    },\n    \"ACC.#\": \"13144\",\n    \"ADD. NOTES/SPECIES LISTS ETC. on back\": \"\"\n  },\n  \"TRANSCRIPTION NOTES\": \"Some text was difficult to decipher; 'Slgt' abbreviation for CURRENT assumed to mean 'Slight'. The LOCALITY value 'Mine Runatte Racoon Ford' was interpreted as 'Mine Run at Racoon Ford' based on context. LAT and LONG values are duplicated, suggesting they may indicate a single point rather than a range. ELEV. and STREAM WIDTH were interpreted from context, as handwriting was challenging to read. GENERAL HABITAT value 'Large upl piedmont creek' assumed from context and handwriting. ADD. NOTES/SPECIES LISTS ETC. field is indicated to continue on back, detail not provided in transcription.\"\n}\n```"
+            },
+            "finish_details": {
+                "type": "stop",
+                "stop": "<|fim_suffix|>"
+            },
+            "index": 0
+        }
+    ]
+}

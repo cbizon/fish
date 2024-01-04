@@ -1,0 +1,55 @@
+{
+  "NORTH CAROLINA STATE MUSEUM OF NATURAL SCIENCES AQUATIC/MARINE FIELD DATA SHEET": {
+    "DATE": "23 Nov 2011",
+    "TIME": "1310-1450",
+    "FIELD#": "WCS-2028",
+    "REGIONAL DATA": {
+      "FOR FRESHWATER ONLY": {
+        "CONTINENT": "N. Am",
+        "PRINCIPAL DRAINAGE BASIN": "Miss",
+        "RIVER SUBBASINS": "Clinch",
+        "COUNTRY": "USA",
+        "ST/PROV.": "TN"
+      },
+      "FOR MARINE ONLY": {
+        "OCEAN": "",
+        "OCEAN SUBBASIN": "",
+        "COUNTRY (if coastal collection)": "",
+        "ST/PROV.": ""
+      }
+    },
+    "LOCALE DATA/COLLECTING INFORMATION": {
+      "COUNTIES": "Hancock",
+      "MAP SHEET": "",
+      "LOCALITY": "Clinch R. at Frost Ford by Tennsic Rdtrs bd (0.1 mi above Panther Cr.) 3.6 mi E of Sneedville",
+      "LAT": "36.5302 N",
+      "LONG": "83.1509 W",
+      "OTHER COORDS": "",
+      "VESSEL": "",
+      "CRUISE": "",
+      "STA#": "",
+      "PERMIT": "TWRA",
+      "COLLECTORS": "See 2967",
+      "METHOD CAPTURE": "bp. Seine 12' Seine",
+      "DEPTH CAPTURE": "",
+      "PRESERVATIVE": "Form. etc."
+    },
+    "ECOLOGICAL DATA": {
+      "GENERAL HABITAT": "med. Riffy valley river",
+      "ELEV.": "1200m",
+      "STREAM WIDTH": "50m",
+      "MAX DEPTH": "2m",
+      "CURRENT": "",
+      "COLOR": "clear",
+      "TEMP": "",
+      "SALINITY": "",
+      "TIDE": "",
+      "BOTTOM TYPE": "gravel/sand, large rocks/boulders",
+      "VEGETATION": "bedrgt.",
+      "SHORE TYPE": "fields & riparian trees etc."
+    },
+    "ACC.#": "12646",
+    "ADD. NOTES/SPECIES LISTS ETC. on back": "+ Frost Ford is a local name, not found on most maps"
+  },
+  "TRANSCRIPTION NOTES": "The salinity, temperature, and current fields were left blank. Method Capture seems to be 'bp. Seine' or 'bp' could possibly refer to backpack, followed by '12' Seine'."
+}

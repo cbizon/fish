@@ -1,0 +1,56 @@
+{
+  "NORTH CAROLINA STATE MUSEUM OF NATURAL SCIENCES AQUATIC/MARINE FIELD DATA SHEET": 
+  { 
+    "DATE": "05 Sept 2013", 
+    "TIME": "1200-1330", 
+    "FIELD#": "WCS-3015", 
+    "REGIONAL DATA": { 
+      "FOR FRESHWATER ONLY": { 
+        "CONTINENT": "N. Am", 
+        "PRINCIPAL DRAINAGE BASIN": "Chesapeake Bay", 
+        "RIVER SUBBASINS": "Jones / ", 
+        "COUNTRY": "USA", 
+        "ST/PROV.": "VA"
+      }, 
+      "FOR MARINE ONLY": { 
+        "OCEAN": "", 
+        "OCEAN SUBBASIN": "", 
+        "COUNTRY (if coastal collection)": "", 
+        "ST/PROV.": ""
+      } 
+    }, 
+    "LOCALE DATA/COLLECTING INFORMATION": { 
+      "COUNTIES": "Chesterfield", 
+      "MAP SHEET": "", 
+      "LOCALITY": "Backwater area of Appomattox R. / The Stump Hole. 80 aci air mi NW of Sutherland", 
+      "LAT": "37.2767°, 37.3019°", 
+      "LONG": "-77.6383°, -77.6777°", 
+      "OTHER COORDS": "", 
+      "VESSEL": "", 
+      "CRUISE": "", 
+      "STA#": "", 
+      "PERMIT": "VB61F", 
+      "COLLECTORS": "WC Shriner, SM Haynes, MG Gotman, L.A. Weaver", 
+      "METHOD CAPTURE": "EFFBoat (1.1 m boat)", 
+      "DEPTH CAPTURE": "1m", 
+      "PRESERVATIVE": "Formaldehyde" 
+    }, 
+    "ECOLOGICAL DATA": { 
+      "GENERAL HABITAT": "large flooded backwater area", 
+      "ELEV.": "", 
+      "STREAM WIDTH": "", 
+      "MAX DEPTH": "1m", 
+      "CURRENT": "0", 
+      "COLOR": "Fur b/cld", 
+      "TEMP": "", 
+      "SALINITY": "slight SPV", 
+      "TIDE": "", 
+      "BOTTOM TYPE": "Silt", 
+      "VEGETATION": "SHV", 
+      "SHORE TYPE": "Wood" 
+    }, 
+    "ACC.#": "19226", 
+    "ADD. NOTES/SPECIES LISTS ETC. on back": "Branches up from L. ich & dili."
+  },
+  "TRANSCRIPTION NOTES": "The river subbasins field ended abruptly and may have been incomplete. The 'CURRENT' field was marked with '0'; it may be indicating no current, but this term is not commonly used, so it's unclear. There were ambiguities about the 'SALINITY' and 'VEGETATION' field notations ('slight SPV' and 'SHV' may represent shorthand or codes not fully expanded in this context)."
+}
